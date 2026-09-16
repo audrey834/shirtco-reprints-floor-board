@@ -1,1 +1,350 @@
-<!doctype html><title>Reprints floor</title><p>Seeding…</p>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="refresh" content="60"/>
+<title>Reprints floor · Shirt.Co</title>
+<style>
+:root {
+  --bg:#0b0f14; --panel:#141b24; --card:#1a2330; --line:#2a3648;
+  --text:#e8eef6; --muted:#8b9aab; --rush:#ff4d5a; --firm:#ffb020;
+  --link:#7db7ff; --accent:#5b8def;
+  --pad:5px; --gap:3px; --head:1.05rem; --vid:1.15rem; --body:.82rem; --tiny:.72rem;
+}
+* { box-sizing:border-box; }
+html, body {
+  height:100%; width:100%; margin:0;
+  overflow:hidden !important;
+}
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  background:var(--bg); color:var(--text);
+  display:flex; flex-direction:column;
+}
+header {
+  flex:0 0 auto; padding:6px 10px 4px;
+  border-bottom:1px solid var(--line);
+  background:rgba(11,15,20,.96);
+}
+h1 { margin:0; font-size:var(--head); letter-spacing:.02em; line-height:1.15; }
+.sub { color:var(--muted); font-size:var(--tiny); margin:1px 0 4px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.chips { display:flex; flex-wrap:nowrap; gap:6px; overflow:hidden; }
+.chip {
+  background:var(--panel); border:1px solid var(--line); border-radius:999px;
+  padding:2px 9px; font-size:var(--tiny); white-space:nowrap;
+}
+.chip .n { font-weight:800; font-variant-numeric:tabular-nums; margin-right:3px; }
+.chip.total { border-color:var(--accent); color:var(--link); }
+.authfail { background:#3a1218; color:#ff8a95; padding:4px 8px; border-radius:6px; margin-top:4px; font-size:var(--tiny); }
+main {
+  flex:1 1 auto; display:grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap:var(--gap); padding:var(--gap); min-height:0; overflow:hidden;
+}
+.col {
+  background:var(--panel); border:1px solid var(--line); border-radius:8px;
+  display:flex; flex-direction:column; min-height:0; overflow:hidden;
+}
+.col h2 {
+  margin:0; padding:6px 8px; font-size:var(--body);
+  border-bottom:1px solid var(--line); flex:0 0 auto;
+  display:flex; justify-content:space-between; align-items:baseline;
+  line-height:1.2;
+}
+.col h2 .n { color:var(--muted); font-variant-numeric:tabular-nums; }
+.col[data-col="sp"] {
+  border-color:#1e3a6a;
+  border-left:4px solid #5b8def;
+  background:linear-gradient(180deg, #101a2a 0%, var(--panel) 48px);
+}
+.col[data-col="sp"] h2 {
+  background:#142438; color:#b8d4ff;
+  border-bottom-color:#1e3a6a;
+}
+.col[data-col="sp"] h2 .n { color:#7db7ff; }
+.col[data-col="dtf"] {
+  border-color:#6a3a12;
+  border-left:4px solid #ff9f43;
+  background:linear-gradient(180deg, #2a1a0c 0%, var(--panel) 48px);
+}
+.col[data-col="dtf"] h2 {
+  background:#3a2210; color:#ffd0a0;
+  border-bottom-color:#6a3a12;
+}
+.col[data-col="dtf"] h2 .n { color:#ffb06a; }
+.col[data-col="emb"] {
+  border-color:#1e5c3a;
+  border-left:4px solid #3ddc97;
+  background:linear-gradient(180deg, #10261a 0%, var(--panel) 48px);
+}
+.col[data-col="emb"] h2 {
+  background:#143528; color:#b8f5d4;
+  border-bottom-color:#1e5c3a;
+}
+.col[data-col="emb"] h2 .n { color:#6fd9a8; }
+.cards {
+  flex:1 1 auto; min-height:0; overflow:hidden;
+  padding:var(--gap) 6px; display:flex; flex-direction:column; gap:var(--gap);
+}
+.cards.dense { display:grid; grid-template-columns:1fr 1fr; align-content:stretch; gap:var(--gap); overflow:hidden; }
+.cards.dense .card { min-height:0; }
+.card {
+  display:flex; flex-direction:column;
+  text-decoration:none; color:inherit;
+  background:var(--card); border:1px solid var(--line); border-radius:7px;
+  padding:4px 8px 3px;
+  flex:1 1 auto; min-height:2.6em; overflow:hidden;
+}
+.card:hover { border-color:var(--accent); }
+.card-top {
+  flex:1 1 auto; min-height:0; overflow:hidden;
+  display:flex; flex-direction:column;
+}
+.card-foot {
+  flex:0 0 auto; margin-top:2px;
+  display:flex; flex-direction:column; gap:0;
+}
+.vid { font-size:var(--vid); font-weight:800; font-variant-numeric:tabular-nums; line-height:1.1; flex:0 0 auto; }
+.shelf {
+  font-size:var(--body); font-weight:800; letter-spacing:.02em;
+  color:#9fd4ff; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; line-height:1.2;
+  flex:0 0 auto;
+}
+.nick {
+  font-size:var(--body); margin-top:1px; line-height:1.15;
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+  overflow:hidden; text-overflow:ellipsis;
+  flex:0 0 auto; min-height:calc(var(--body) * 1.15);
+}
+.nick .po { font-weight:800; line-height:1.15; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.nick .nick-rest { display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden; }
+.meta {
+  display:flex; justify-content:space-between; align-items:baseline;
+  margin-top:1px; font-size:var(--tiny); font-variant-numeric:tabular-nums;
+  flex:0 0 auto; line-height:1.2;
+}
+.due { font-weight:700; }
+.st { color:var(--muted); font-size:var(--tiny); margin-top:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex:0 0 auto; }
+.blocker { color:#ff9f6b; font-size:var(--tiny); font-weight:700; margin-top:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; flex:0 0 auto; }
+.badge {
+  display:inline-block; font-size:calc(var(--tiny) * .9); font-weight:800; letter-spacing:.03em;
+  padding:1px 5px; border-radius:999px; vertical-align:middle; margin-left:3px;
+}
+.badge.rush { background:#4a1218; color:var(--rush); border:1px solid var(--rush); }
+.badge.firm { background:#3a2a10; color:var(--firm); border:1px solid var(--firm); }
+.empty { color:var(--muted); padding:8px; text-align:center; font-size:var(--body); }
+.notes { display:none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Reprints floor · Shirt.Co</h1>
+  <p class="sub">Last updated 2026-09-16 15:37:23 CDT · America/Chicago · remakes only · read-only</p>
+  <div class="chips"><div class="chip"><span class="n">5</span> SP</div><div class="chip"><span class="n">4</span> DTF</div><div class="chip"><span class="n">5</span> EMB</div><div class="chip total"><span class="n">14</span> Total</div></div>
+  
+  <ul class="notes"><li>fetched=4470 live_statuses=107 remakes_era=14 unknown_dept=0</li></ul>
+</header>
+<main>
+<section class="col" data-col="sp"><h2>SP <span class="n">5</span></h2><div class="cards"><a class="card" href="https://www.printavo.com/invoices/24264360" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#75341 <span class="badge rush">RUSH</span></div>
+    <div class="nick">REPRINT//SCR/ DTF BADGER JERSEYS FALL 2026 - 2PCS</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 120</div>
+    <div class="st">SP - STAGED - RUSH</div>
+    <div class="blocker">staged</div>
+    <div class="meta"><span class="due">Due 2026-08-31</span><span class="qty">Qty 2</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24457604" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76117 <span class="badge rush">RUSH</span></div>
+    <div class="nick">REPRINT-SP - Refuge Church Tees -39 PCS</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 118</div>
+    <div class="st">SP - STAGED - RUSH</div>
+    <div class="blocker">staged</div>
+    <div class="meta"><span class="due">Due 2026-09-15</span><span class="qty">Qty 39</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24477993" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76189 <span class="badge rush">RUSH</span></div>
+    <div class="nick">REPRINT - 592811 Manchester Police Department 2026 SCRN - LC - WHITE - 12534</div>
+  </div>
+  <div class="card-foot">
+    
+    <div class="st">SP - SCREENS BURNED - RUSH</div>
+    <div class="blocker">screens burned</div>
+    <div class="meta"><span class="due">Due 2026-09-16</span><span class="qty">Qty 1</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24479097" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76192 <span class="badge rush">RUSH</span></div>
+    <div class="nick">REPRINT//SP - PO9032026 - HAVEN TEE HOODIE - 1PC 1of2</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 119</div>
+    <div class="st">SP - STAGED - RUSH</div>
+    <div class="blocker">staged</div>
+    <div class="meta"><span class="due">Due 2026-09-16</span><span class="qty">Qty 1</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24456789" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76113 </div>
+    <div class="nick">REPRINT - SP/DTF - DTF - I AM LOCAL 2202 - 220pc</div>
+  </div>
+  <div class="card-foot">
+    
+    <div class="st">DTF - PRODUCTION FILES SENT</div>
+    <div class="blocker">files sent</div>
+    <div class="meta"><span class="due">Due 2026-09-21</span><span class="qty">Qty 220</span></div>
+  </div>
+</a></div></section><section class="col" data-col="dtf"><h2>DTF <span class="n">4</span></h2><div class="cards"><a class="card" href="https://www.printavo.com/invoices/24472983" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76178 <span class="badge rush">RUSH</span></div>
+    <div class="nick">DTF - Local 1 Pipe Covers FC Soccer Uniforms - 26 PCS</div>
+  </div>
+  <div class="card-foot">
+    
+    <div class="st">SP - PRODUCTION FILES SENT RUSH</div>
+    <div class="blocker">files sent</div>
+    <div class="meta"><span class="due">Due 2026-09-16</span><span class="qty">Qty 26</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/23547767" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#72577 </div>
+    <div class="nick">REPRINT - DTF- PO5858-Building Point-250PC</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SLOT K</div>
+    <div class="st">INVOICE  - INVOICE RESENT FOR PAYMENT (EM…</div>
+    <div class="blocker">invoice - invoice resent fo…</div>
+    <div class="meta"><span class="due">Due 2026-07-07</span><span class="qty">Qty 250</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24422123" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#75979 </div>
+    <div class="nick">REPRINT-DTF- MILLWRIGHT LOCAL 740 - 22 PCS</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF F</div>
+    <div class="st">DTF - TRANSFERS ARRIVED - WAITING ON GOODS</div>
+    <div class="blocker">waiting goods</div>
+    <div class="meta"><span class="due">Due 2026-09-16</span><span class="qty">Qty 22</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24483590" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76198 </div>
+    <div class="nick">DTF - SCW D1 W WARRIORS - 7 PCS</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SLOT N</div>
+    <div class="st">DTF - STAGED</div>
+    <div class="blocker">staged</div>
+    <div class="meta"><span class="due">Due 2026-09-17</span><span class="qty">Qty 7</span></div>
+  </div>
+</a></div></section><section class="col" data-col="emb"><h2>EMB <span class="n">5</span></h2><div class="cards"><a class="card" href="https://www.printavo.com/invoices/23359174" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#71905 <span class="badge rush">RUSH</span></div>
+    <div class="nick">RUSH reprint - EMB - PO - 060126-P - 1PC </div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 87</div>
+    <div class="st">INVOICE  - INVOICE RESENT FOR PAYMENT (EM…</div>
+    <div class="blocker">invoice - invoice resent fo…</div>
+    <div class="meta"><span class="due">Due 2026-06-19</span><span class="qty">Qty 1</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24458613" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76122 <span class="badge rush">RUSH</span></div>
+    <div class="nick">RESTITCH - 610846 Wright City Fire Department 2026  EMB - LC/RC/FB - NON- UNION-</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 91</div>
+    <div class="st">EMB - DST FILE UPLOADED - ALL GOODS HERE…</div>
+    <div class="blocker">goods here</div>
+    <div class="meta"><span class="due">Due 2026-09-15</span><span class="qty">Qty 1</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24463116" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76134 <span class="badge rush">RUSH</span></div>
+    <div class="nick">RESTITCH - 601088 ELK Grove Village Fire 2026 EMB - LC - NON UNION -  60072 - (1</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF e3</div>
+    <div class="st">EMB - DST FILE UPLOADED - ALL GOODS HERE…</div>
+    <div class="blocker">goods here</div>
+    <div class="meta"><span class="due">Due 2026-09-15</span><span class="qty">Qty 1</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/23839366" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#73626 </div>
+    <div class="nick">RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT </div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF 48</div>
+    <div class="st">INVOICE  - INVOICE RESENT FOR PAYMENT (EM…</div>
+    <div class="blocker">invoice - invoice resent fo…</div>
+    <div class="meta"><span class="due">Due 2026-07-28</span><span class="qty">Qty 12</span></div>
+  </div>
+</a>
+<a class="card" href="https://www.printavo.com/invoices/24463665" target="_blank" rel="noopener">
+  <div class="card-top">
+    <div class="vid">#76140 </div>
+    <div class="nick">REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1</div>
+  </div>
+  <div class="card-foot">
+    <div class="shelf">SHELF e3</div>
+    <div class="st">EMB - DST FILE UPLOADED - ALL GOODS HERE…</div>
+    <div class="blocker">goods here</div>
+    <div class="meta"><span class="due">Due 2026-09-21</span><span class="qty">Qty 1</span></div>
+  </div>
+</a></div></section>
+</main>
+<script>
+function fitTv() {
+  const root = document.documentElement;
+  const steps = [
+    { head:'1.05rem', vid:'1.15rem', body:'.82rem', tiny:'.72rem', pad:'5px', gap:'3px' },
+    { head:'.96rem',  vid:'1.05rem', body:'.76rem', tiny:'.66rem', pad:'4px', gap:'3px' },
+    { head:'.88rem',  vid:'.95rem',  body:'.70rem', tiny:'.62rem', pad:'3px', gap:'2px' },
+  ];
+  function overflows() {
+    return [...document.querySelectorAll('.cards')].some(el => el.scrollHeight > el.clientHeight + 1);
+  }
+  for (const s of steps) {
+    root.style.setProperty('--head', s.head);
+    root.style.setProperty('--vid', s.vid);
+    root.style.setProperty('--body', s.body);
+    root.style.setProperty('--tiny', s.tiny);
+    root.style.setProperty('--pad', s.pad);
+    root.style.setProperty('--gap', s.gap);
+    void document.body.offsetHeight;
+    if (!overflows()) return;
+  }
+}
+window.addEventListener('load', fitTv);
+window.addEventListener('resize', fitTv);
+async function reloadBoard() {
+  try {
+    const r = await fetch('board.json?ts=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return;
+    location.reload();
+  } catch (e) { /* ignore */ }
+}
+setInterval(reloadBoard, 60000);
+</script>
+</body>
+</html>
