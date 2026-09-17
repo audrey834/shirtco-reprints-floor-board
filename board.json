@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-17 12:09:48 CDT",
+  "generated_at_ct": "2026-09-17 12:30:16 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4491 live_statuses=107 remakes_era=14 unknown_dept=0"
+    "fetched=4492 live_statuses=107 remakes_era=14 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
@@ -42,13 +42,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "130396",
-          "status_name": "SP - SCREENS BURNED - RUSH",
-          "short_status": "SP - SCREENS BURNED - RUSH",
+          "status_id": "266478",
+          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24477993",
-          "shelf": null,
-          "blocker": "screens burned"
+          "shelf": "shelf 125",
+          "blocker": "goods here"
         },
         {
           "visual_id": "76345",
@@ -250,13 +250,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "131512",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION ",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24458613",
           "shelf": "shelf 91",
-          "blocker": "sewing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76140",
