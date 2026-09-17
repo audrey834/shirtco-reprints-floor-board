@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 11:31:59 CDT",
+  "generated_at_ct": "2026-09-17 11:53:02 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4490 live_statuses=107 remakes_era=13 unknown_dept=0"
@@ -209,7 +209,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
