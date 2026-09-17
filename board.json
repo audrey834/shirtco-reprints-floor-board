@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-17 08:04:04 CDT",
+  "generated_at_ct": "2026-09-17 08:29:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4479 live_statuses=107 remakes_era=14 unknown_dept=0"
+    "fetched=4482 live_statuses=107 remakes_era=13 unknown_dept=0"
   ],
   "counts": {
-    "sp": 4,
+    "sp": 3,
     "dtf": 5,
     "emb": 5,
-    "total": 14
+    "total": 13
   },
   "columns": {
     "sp": {
@@ -49,24 +49,6 @@
           "url": "https://www.printavo.com/invoices/24477993",
           "shelf": null,
           "blocker": "screens burned"
-        },
-        {
-          "visual_id": "76192",
-          "invoice_id": "24479097",
-          "nickname": "REPRINT//SP - PO9032026 - HAVEN TEE HOODIE - 1PC 1of2",
-          "company": "Brewers Print & Design",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-16",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "522080",
-          "status_name": "SP - COMPLETE - FINISHING - RUSH",
-          "short_status": "SP - COMPLETE - FINISHING - RUSH",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24479097",
-          "shelf": "shelf 119",
-          "blocker": "finishing"
         },
         {
           "visual_id": "76113",
@@ -191,7 +173,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -245,7 +227,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
