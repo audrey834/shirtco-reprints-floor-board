@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-17 12:30:16 CDT",
+  "generated_at_ct": "2026-09-17 12:44:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4492 live_statuses=107 remakes_era=14 unknown_dept=0"
+    "fetched=4493 live_statuses=107 remakes_era=15 unknown_dept=0"
   ],
   "counts": {
-    "sp": 4,
+    "sp": 5,
     "dtf": 5,
     "emb": 5,
-    "total": 14
+    "total": 15
   },
   "columns": {
     "sp": {
@@ -69,6 +69,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76350",
+          "invoice_id": "24515004",
+          "nickname": "REPRINT SP - FirstSpear Tarot Tubes tees - 151pc poPO48355",
+          "company": "FIRST SPEAR",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 151,
+          "status_id": "281213",
+          "status_name": "ART ASSIGNED - KEVIN - RUSH",
+          "short_status": "ART ASSIGNED - KEVIN - RUSH",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24515004",
+          "shelf": null,
+          "blocker": "in art"
+        },
+        {
           "visual_id": "76113",
           "invoice_id": "24456789",
           "nickname": "REPRINT - SP/DTF - DTF - I AM LOCAL 2202 - 220pc",
@@ -83,7 +101,7 @@
           "short_status": "DTF - PRODUCTION FILES SENT",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24456789",
-          "shelf": null,
+          "shelf": "shelf 121",
           "blocker": "files sent"
         }
       ]
@@ -209,7 +227,7 @@
           "invoice_id": "24463116",
           "nickname": "RESTITCH - 601088 ELK Grove Village Fire 2026 EMB - LC - NON UNION -  60072 - (1 of 4)",
           "company": "Elk grove Village Fire ",
-          "production_due": "2026-09-15",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-15",
           "rush": true,
           "firm": false,
@@ -245,7 +263,7 @@
           "invoice_id": "24458613",
           "nickname": "RESTITCH - 610846 Wright City Fire Department 2026  EMB - LC/RC/FB - NON- UNION- COAT - 50773 -  (10 of 11)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-09-15",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-15",
           "rush": false,
           "firm": false,
@@ -263,7 +281,7 @@
           "invoice_id": "24463665",
           "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
           "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
