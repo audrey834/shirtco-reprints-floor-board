@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-17 10:08:28 CDT",
+  "generated_at_ct": "2026-09-17 10:40:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4494 live_statuses=107 remakes_era=13 unknown_dept=0"
+    "fetched=4493 live_statuses=107 remakes_era=13 unknown_dept=0"
   ],
   "counts": {
     "sp": 3,
@@ -155,13 +155,13 @@
           "rush": false,
           "firm": false,
           "qty": 22,
-          "status_id": "522086",
-          "status_name": "DTF - STAGED",
-          "short_status": "DTF - STAGED",
+          "status_id": "101290",
+          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE",
+          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24422123",
           "shelf": "Shelf F",
-          "blocker": "staged"
+          "blocker": "goods here"
         }
       ]
     },
@@ -196,13 +196,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "522082",
-          "status_name": "EMB - COMPLETE - FINISHING - RUSH",
-          "short_status": "EMB - COMPLETE - FINISHING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24463116",
           "shelf": "shelf e3",
-          "blocker": "finishing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "73626",
@@ -245,7 +245,7 @@
           "invoice_id": "24463665",
           "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
           "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
