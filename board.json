@@ -1,13 +1,13 @@
 {
-  "generated_at_ct": "2026-09-17 12:59:20 CDT",
+  "generated_at_ct": "2026-09-17 13:13:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4486 live_statuses=107 remakes_era=15 unknown_dept=0"
+    "fetched=4488 live_statuses=107 remakes_era=15 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 5,
-    "emb": 5,
+    "dtf": 6,
+    "emb": 4,
     "total": 15
   },
   "columns": {
@@ -78,13 +78,13 @@
           "rush": true,
           "firm": false,
           "qty": 151,
-          "status_id": "281213",
-          "status_name": "ART ASSIGNED - KEVIN - RUSH",
-          "short_status": "ART ASSIGNED - KEVIN - RUSH",
+          "status_id": "130395",
+          "status_name": "SP - PRODUCTION FILES SENT RUSH",
+          "short_status": "SP - PRODUCTION FILES SENT RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24515004",
           "shelf": null,
-          "blocker": "in art"
+          "blocker": "files sent"
         },
         {
           "visual_id": "76113",
@@ -162,6 +162,24 @@
           "url": "https://www.printavo.com/invoices/24509930",
           "shelf": null,
           "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76353",
+          "invoice_id": "24515873",
+          "nickname": "REPRINT - B349935 St. Charles West High School 2026 - Batched 09/03/2026 DTF - FF - UPDATED D1 - 74541 -  (2 of 10)",
+          "company": "St. Charles West Boost Club",
+          "production_due": "2026-09-18",
+          "customer_due": "2026-09-18",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24515873",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
@@ -257,24 +275,6 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
-        },
-        {
-          "visual_id": "76122",
-          "invoice_id": "24458613",
-          "nickname": "RESTITCH - 610846 Wright City Fire Department 2026  EMB - LC/RC/FB - NON- UNION- COAT - 50773 -  (10 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-15",
-          "customer_due": "2026-09-15",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "131512",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION ",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24458613",
-          "shelf": "shelf 91",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76140",
