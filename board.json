@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-18 12:48:56 CDT",
+  "generated_at_ct": "2026-09-18 13:02:27 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4510 live_statuses=107 remakes_era=15 unknown_dept=0"
+    "fetched=4511 live_statuses=107 remakes_era=17 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 5,
-    "emb": 5,
-    "total": 15
+    "dtf": 6,
+    "emb": 6,
+    "total": 17
   },
   "columns": {
     "sp": {
@@ -78,13 +78,13 @@
           "rush": false,
           "firm": false,
           "qty": 2,
-          "status_id": "150827",
-          "status_name": "SP - STAGED",
-          "short_status": "SP - STAGED",
+          "status_id": "259832",
+          "status_name": "SP - PRINTING",
+          "short_status": "SP - PRINTING",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24513810",
           "shelf": null,
-          "blocker": "staged"
+          "blocker": "printing"
         },
         {
           "visual_id": "76113",
@@ -164,6 +164,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76430",
+          "invoice_id": "24531943",
+          "nickname": "REPRINT//DTF - WARHAWKS REVERSIBLE JERSEYS AND SHORTS - QTY 2",
+          "company": "Warhawks",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 2,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24531943",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
           "visual_id": "72577",
           "invoice_id": "23547767",
           "nickname": "REPRINT - DTF- PO5858-Building Point-250PC",
@@ -209,7 +227,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -259,6 +277,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76432",
+          "invoice_id": "24532145",
+          "nickname": "REPRINT/EMB - Purple Bee Farm Dad Hats - 17PC",
+          "company": "Purple Bee Farm",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 17,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24532145",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "73626",
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
@@ -286,13 +322,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "EMB - GOODS HERE - DST UPLOADED - BARCODE\u2026",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24463665",
           "shelf": "shelf e3",
-          "blocker": "goods here"
+          "blocker": "sewing"
         }
       ]
     }
