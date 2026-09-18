@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-18 11:07:23 CDT",
+  "generated_at_ct": "2026-09-18 11:40:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4506 live_statuses=107 remakes_era=16 unknown_dept=0"
+    "fetched=4506 live_statuses=107 remakes_era=15 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 6,
+    "dtf": 5,
     "emb": 5,
-    "total": 16
+    "total": 15
   },
   "columns": {
     "sp": {
@@ -128,24 +128,6 @@
           "blocker": "files sent"
         },
         {
-          "visual_id": "76292",
-          "invoice_id": "24503836",
-          "nickname": "REPRINT - 623705 ST. DOMINIC VOLLEYBALL ONLINE STORE FALL 2026 DTF - FF - NAVY SCRIPT - 74484 -  (3 of 4)",
-          "company": "ST. DOMINIC",
-          "production_due": "2026-09-17",
-          "customer_due": "2026-09-17",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24503836",
-          "shelf": null,
-          "blocker": "print complete / needs stor\u2026"
-        },
-        {
           "visual_id": "76322",
           "invoice_id": "24509930",
           "nickname": "REPRINT=DTF - FHHS Marching Band Classic Viking Logo - 4 PCS",
@@ -155,13 +137,13 @@
           "rush": true,
           "firm": false,
           "qty": 4,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "status_id": "521374",
+          "status_name": "DTF - PRESSING - RUSH",
+          "short_status": "DTF - PRESSING - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24509930",
           "shelf": null,
-          "blocker": "waiting goods"
+          "blocker": "pressing"
         },
         {
           "visual_id": "76353",
@@ -173,13 +155,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "status_id": "484074",
+          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24515873",
           "shelf": null,
-          "blocker": "waiting goods"
+          "blocker": "goods here"
         },
         {
           "visual_id": "72577",
@@ -227,7 +209,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
