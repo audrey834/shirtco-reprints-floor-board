@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-18 13:22:56 CDT",
+  "generated_at_ct": "2026-09-18 13:39:36 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4511 live_statuses=107 remakes_era=17 unknown_dept=0"
+    "fetched=4506 live_statuses=107 remakes_era=17 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
@@ -322,13 +322,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "522078",
+          "status_name": "EMB - COMPLETE - FINISHING",
+          "short_status": "EMB - COMPLETE - FINISHING",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24463665",
           "shelf": "shelf e3",
-          "blocker": "sewing"
+          "blocker": "finishing"
         }
       ]
     }
