@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-17 17:59:49 CDT",
+  "generated_at_ct": "2026-09-18 07:14:45 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4503 live_statuses=107 remakes_era=14 unknown_dept=0"
@@ -263,7 +263,7 @@
           "invoice_id": "24463665",
           "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
           "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-22",
           "rush": false,
           "firm": false,
