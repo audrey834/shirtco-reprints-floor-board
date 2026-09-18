@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-18 16:27:14 CDT",
+  "generated_at_ct": "2026-09-18 16:39:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4490 live_statuses=107 remakes_era=12 unknown_dept=0"
+    "fetched=4488 live_statuses=107 remakes_era=11 unknown_dept=0"
   ],
   "counts": {
     "sp": 2,
     "dtf": 5,
-    "emb": 5,
-    "total": 12
+    "emb": 4,
+    "total": 11
   },
   "columns": {
     "sp": {
@@ -167,24 +167,6 @@
           "url": "https://www.printavo.com/invoices/23359174",
           "shelf": "SHELF 87",
           "blocker": "invoice - invoice resent fo\u2026"
-        },
-        {
-          "visual_id": "76134",
-          "invoice_id": "24463116",
-          "nickname": "RESTITCH - 601088 ELK Grove Village Fire 2026 EMB - LC - NON UNION -  60072 - (1 of 4)",
-          "company": "Elk grove Village Fire ",
-          "production_due": "2026-09-15",
-          "customer_due": "2026-09-15",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24463116",
-          "shelf": "shelf e3",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76416",
