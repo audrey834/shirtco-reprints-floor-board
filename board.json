@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-18 10:44:14 CDT",
+  "generated_at_ct": "2026-09-18 11:07:23 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4504 live_statuses=107 remakes_era=16 unknown_dept=0"
+    "fetched=4506 live_statuses=107 remakes_era=16 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
@@ -137,13 +137,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24503836",
           "shelf": null,
-          "blocker": "goods here"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76322",
@@ -227,7 +227,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
