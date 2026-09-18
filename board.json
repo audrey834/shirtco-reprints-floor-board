@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-18 13:39:36 CDT",
+  "generated_at_ct": "2026-09-18 13:54:10 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4506 live_statuses=107 remakes_era=17 unknown_dept=0"
+    "fetched=4500 live_statuses=107 remakes_era=16 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 6,
+    "dtf": 5,
     "emb": 6,
-    "total": 17
+    "total": 16
   },
   "columns": {
     "sp": {
@@ -126,24 +126,6 @@
           "url": "https://www.printavo.com/invoices/24472983",
           "shelf": null,
           "blocker": "files sent"
-        },
-        {
-          "visual_id": "76322",
-          "invoice_id": "24509930",
-          "nickname": "REPRINT=DTF - FHHS Marching Band Classic Viking Logo - 4 PCS",
-          "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
-          "rush": true,
-          "firm": false,
-          "qty": 4,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24509930",
-          "shelf": null,
-          "blocker": "finishing"
         },
         {
           "visual_id": "76427",
