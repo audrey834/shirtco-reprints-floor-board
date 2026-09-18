@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-18 14:37:54 CDT",
+  "generated_at_ct": "2026-09-18 14:59:33 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4501 live_statuses=107 remakes_era=16 unknown_dept=0"
+    "fetched=4497 live_statuses=107 remakes_era=14 unknown_dept=0"
   ],
   "counts": {
-    "sp": 5,
+    "sp": 4,
     "dtf": 5,
-    "emb": 6,
-    "total": 16
+    "emb": 5,
+    "total": 14
   },
   "columns": {
     "sp": {
@@ -67,24 +67,6 @@
           "url": "https://www.printavo.com/invoices/24515004",
           "shelf": null,
           "blocker": "files sent"
-        },
-        {
-          "visual_id": "76345",
-          "invoice_id": "24513810",
-          "nickname": "REPRINT//SP - Habitat Volunteer Shirts - 2pc",
-          "company": "Habitat for Humanity",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "522076",
-          "status_name": "SP - COMPLETE - FINISHING",
-          "short_status": "SP - COMPLETE - FINISHING",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24513810",
-          "shelf": null,
-          "blocker": "finishing"
         },
         {
           "visual_id": "76113",
@@ -191,13 +173,13 @@
           "rush": false,
           "firm": false,
           "qty": 22,
-          "status_id": "522077",
-          "status_name": "DTF - COMPLETE - FINISHING",
-          "short_status": "DTF - COMPLETE - FINISHING",
+          "status_id": "522086",
+          "status_name": "DTF - STAGED",
+          "short_status": "DTF - STAGED",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24422123",
           "shelf": "Shelf F",
-          "blocker": "finishing"
+          "blocker": "staged"
         }
       ]
     },
@@ -227,7 +209,7 @@
           "invoice_id": "24463116",
           "nickname": "RESTITCH - 601088 ELK Grove Village Fire 2026 EMB - LC - NON UNION -  60072 - (1 of 4)",
           "company": "Elk grove Village Fire ",
-          "production_due": "2026-09-15",
+          "production_due": "2026-09-16",
           "customer_due": "2026-09-15",
           "rush": true,
           "firm": false,
@@ -293,24 +275,6 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
-        },
-        {
-          "visual_id": "76140",
-          "invoice_id": "24463665",
-          "nickname": "REPRINT EMB - DISCOVERY RIDGE ELEM. 1/4 ZIPS- qty 1",
-          "company": "Discovery Ridge Elementary",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "522078",
-          "status_name": "EMB - COMPLETE - FINISHING",
-          "short_status": "EMB - COMPLETE - FINISHING",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24463665",
-          "shelf": "shelf e3",
-          "blocker": "finishing"
         }
       ]
     }
