@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-18 12:06:34 CDT",
+  "generated_at_ct": "2026-09-18 12:28:52 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4510 live_statuses=107 remakes_era=15 unknown_dept=0"
+    "fetched=4511 live_statuses=107 remakes_era=15 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
@@ -146,22 +146,22 @@
           "blocker": "finishing"
         },
         {
-          "visual_id": "76353",
-          "invoice_id": "24515873",
+          "visual_id": "76427",
+          "invoice_id": "24530911",
           "nickname": "REPRINT - B349935 St. Charles West High School 2026 - Batched 09/03/2026 DTF - FF - UPDATED D1 - 74541 -  (2 of 10)",
           "company": "St. Charles West Boost Club",
-          "production_due": "2026-09-18",
-          "customer_due": "2026-09-18",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
           "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24515873",
+          "url": "https://www.printavo.com/invoices/24530911",
           "shelf": null,
-          "blocker": "print complete / needs stor\u2026"
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
