@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-21 13:05:44 CDT",
+  "generated_at_ct": "2026-09-21 13:29:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4508 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4510 live_statuses=107 remakes_era=21 unknown_dept=0"
   ],
   "counts": {
     "sp": 3,
@@ -376,13 +376,13 @@
           "rush": false,
           "firm": false,
           "qty": 5,
-          "status_id": "329207",
-          "status_name": "EMB - STAGED",
-          "short_status": "EMB - STAGED",
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24526260",
           "shelf": "shelf 95",
-          "blocker": "staged"
+          "blocker": "sewing"
         },
         {
           "visual_id": "76432",
