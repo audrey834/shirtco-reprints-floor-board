@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-21 14:26:23 CDT",
+  "generated_at_ct": "2026-09-21 14:42:40 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4511 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4512 live_statuses=107 remakes_era=22 unknown_dept=0"
   ],
   "counts": {
-    "sp": 3,
+    "sp": 4,
     "dtf": 11,
     "emb": 7,
-    "total": 21
+    "total": 22
   },
   "columns": {
     "sp": {
@@ -49,6 +49,24 @@
           "url": "https://www.printavo.com/invoices/24549631",
           "shelf": null,
           "blocker": "order goods"
+        },
+        {
+          "visual_id": "76526",
+          "invoice_id": "24553659",
+          "nickname": "REPRINT- SP - Middle School Athletics Tees - 8 PCS",
+          "company": "Pattonville  ",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 8,
+          "status_id": "130395",
+          "status_name": "SP - PRODUCTION FILES SENT RUSH",
+          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24553659",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "76113",
@@ -128,24 +146,6 @@
           "blocker": "waiting goods"
         },
         {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": null,
-          "blocker": "files sent"
-        },
-        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -216,6 +216,24 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": null,
           "blocker": "order goods"
+        },
+        {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "76468",
