@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-21 12:16:48 CDT",
+  "generated_at_ct": "2026-09-21 12:43:10 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4505 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4504 live_statuses=107 remakes_era=21 unknown_dept=0"
   ],
   "counts": {
     "sp": 3,
@@ -60,13 +60,13 @@
           "rush": false,
           "firm": false,
           "qty": 220,
-          "status_id": "228145",
-          "status_name": "SP - SCREENS BURNED - GOODS HERE",
-          "short_status": "SP - SCREENS BURNED - GOODS HERE",
+          "status_id": "150827",
+          "status_name": "SP - STAGED",
+          "short_status": "SP - STAGED",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24456789",
           "shelf": "slot k",
-          "blocker": "goods here"
+          "blocker": "staged"
         }
       ]
     },
@@ -126,6 +126,24 @@
           "url": "https://www.printavo.com/invoices/24531943",
           "shelf": null,
           "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "76449",
@@ -198,24 +216,6 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": null,
           "blocker": "order goods"
-        },
-        {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": null,
-          "blocker": "files sent"
         },
         {
           "visual_id": "76468",
