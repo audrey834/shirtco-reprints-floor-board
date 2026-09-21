@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-21 09:32:19 CDT",
+  "generated_at_ct": "2026-09-21 10:16:05 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4492 live_statuses=107 remakes_era=18 unknown_dept=0"
+    "fetched=4497 live_statuses=107 remakes_era=19 unknown_dept=0"
   ],
   "counts": {
-    "sp": 2,
+    "sp": 3,
     "dtf": 10,
     "emb": 6,
-    "total": 18
+    "total": 19
   },
   "columns": {
     "sp": {
@@ -24,13 +24,31 @@
           "rush": true,
           "firm": false,
           "qty": 151,
-          "status_id": "266478",
-          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
-          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "status_id": "154373",
+          "status_name": "SP - STAGED - RUSH",
+          "short_status": "SP - STAGED - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24515004",
           "shelf": null,
-          "blocker": "goods here"
+          "blocker": "staged"
+        },
+        {
+          "visual_id": "76482",
+          "invoice_id": "24546659",
+          "nickname": "REPRINT-SCRN - BLACK JACK FIRE STORE - UNION NAVY GARMENTS- 37190 REPLACEMENT BRYAN ",
+          "company": "Black Jack Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24546659",
+          "shelf": null,
+          "blocker": "order goods"
         },
         {
           "visual_id": "76113",
@@ -110,6 +128,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76445",
+          "invoice_id": "24537279",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 19,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537279",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -146,24 +182,6 @@
           "blocker": "files sent"
         },
         {
-          "visual_id": "76445",
-          "invoice_id": "24537279",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 19,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537279",
-          "shelf": null,
-          "blocker": "order goods"
-        },
-        {
           "visual_id": "76446",
           "invoice_id": "24537435",
           "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
@@ -173,13 +191,13 @@
           "rush": true,
           "firm": false,
           "qty": 25,
-          "status_id": "130397",
-          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
-          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24537435",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "76468",
@@ -245,7 +263,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
