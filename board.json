@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-21 11:04:55 CDT",
+  "generated_at_ct": "2026-09-21 11:47:14 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4501 live_statuses=107 remakes_era=19 unknown_dept=0"
+    "fetched=4503 live_statuses=107 remakes_era=21 unknown_dept=0"
   ],
   "counts": {
     "sp": 3,
-    "dtf": 9,
+    "dtf": 11,
     "emb": 7,
-    "total": 19
+    "total": 21
   },
   "columns": {
     "sp": {
@@ -33,10 +33,10 @@
           "blocker": "staged"
         },
         {
-          "visual_id": "76482",
-          "invoice_id": "24546659",
-          "nickname": "REPRINT-SCRN - BLACK JACK FIRE STORE - UNION NAVY GARMENTS- 37190 REPLACEMENT BRYAN ",
-          "company": "Black Jack Fire Department",
+          "visual_id": "76508",
+          "invoice_id": "24549631",
+          "nickname": "REPRINT - SCRN - FF - D1 - EISEN - 67637 - REPLACEMENT KATE KAMINSKY",
+          "company": "Fort Leavenworth USD 207",
           "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
@@ -46,7 +46,7 @@
           "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
           "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
           "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24546659",
+          "url": "https://www.printavo.com/invoices/24549631",
           "shelf": null,
           "blocker": "order goods"
         },
@@ -128,6 +128,24 @@
           "blocker": "printing"
         },
         {
+          "visual_id": "76445",
+          "invoice_id": "24537279",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 19,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537279",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -164,20 +182,20 @@
           "blocker": "printing"
         },
         {
-          "visual_id": "76445",
-          "invoice_id": "24537279",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
+          "visual_id": "76482",
+          "invoice_id": "24546659",
+          "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN ",
+          "company": "Black Jack Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
-          "qty": 19,
+          "qty": 1,
           "status_id": "311150",
           "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
           "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
           "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537279",
+          "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
           "blocker": "order goods"
         },
@@ -216,6 +234,24 @@
           "url": "https://www.printavo.com/invoices/24544426",
           "shelf": null,
           "blocker": "files sent"
+        },
+        {
+          "visual_id": "76504",
+          "invoice_id": "24549140",
+          "nickname": "REPRINT - 607104 FORT ZUMWALT NORTH GOLF 2026 DTF-LC-74770",
+          "company": "Fort Zumwalt North",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 16,
+          "status_id": "396477",
+          "status_name": "ART ASSIGNED - LAURA - RUSH",
+          "short_status": "ART ASSIGNED - LAURA - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24549140",
+          "shelf": null,
+          "blocker": "in art"
         },
         {
           "visual_id": "72577",
@@ -257,42 +293,6 @@
           "url": "https://www.printavo.com/invoices/23359174",
           "shelf": "SHELF 87",
           "blocker": "invoice - invoice resent fo\u2026"
-        },
-        {
-          "visual_id": "76416",
-          "invoice_id": "24526260",
-          "nickname": "RESTITCH-EMB - FHHS Marching Band Viking Head - 5 PCS",
-          "company": "FRANCIS HOWELL MARCHING BAND ",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 5,
-          "status_id": "272353",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24526260",
-          "shelf": "shelf 95",
-          "blocker": "goods here"
-        },
-        {
-          "visual_id": "76432",
-          "invoice_id": "24532145",
-          "nickname": "REPRINT/EMB - Purple Bee Farm Dad Hats - 17PC",
-          "company": "Purple Bee Farm",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 17,
-          "status_id": "272353",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24532145",
-          "shelf": "shelf 85",
-          "blocker": "goods here"
         },
         {
           "visual_id": "76448",
@@ -365,6 +365,42 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
+        },
+        {
+          "visual_id": "76416",
+          "invoice_id": "24526260",
+          "nickname": "RESTITCH-EMB - FHHS Marching Band Viking Head - 5 PCS",
+          "company": "FRANCIS HOWELL MARCHING BAND ",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 5,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "EMB - STAGED",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24526260",
+          "shelf": "shelf 95",
+          "blocker": "staged"
+        },
+        {
+          "visual_id": "76432",
+          "invoice_id": "24532145",
+          "nickname": "REPRINT/EMB - Purple Bee Farm Dad Hats - 17PC",
+          "company": "Purple Bee Farm",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": false,
+          "firm": false,
+          "qty": 17,
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "EMB - STAGED",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24532145",
+          "shelf": "shelf 85",
+          "blocker": "staged"
         }
       ]
     }
