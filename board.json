@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-21 16:03:20 CDT",
+  "generated_at_ct": "2026-09-21 16:24:31 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4509 live_statuses=107 remakes_era=23 unknown_dept=0"
+    "fetched=4509 live_statuses=107 remakes_era=21 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 11,
-    "emb": 7,
-    "total": 23
+    "dtf": 10,
+    "emb": 6,
+    "total": 21
   },
   "columns": {
     "sp": {
@@ -124,26 +124,8 @@
           "short_status": "SP - PRODUCTION FILES SENT RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24472983",
-          "shelf": null,
+          "shelf": "shelf 116",
           "blocker": "files sent"
-        },
-        {
-          "visual_id": "76427",
-          "invoice_id": "24530911",
-          "nickname": "REPRINT - B349935 St. Charles West High School 2026 - Batched 09/03/2026 DTF - FF - UPDATED D1 - 74541 -  (2 of 10)",
-          "company": "St. Charles West Boost Club",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24530911",
-          "shelf": "shelf d4",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76430",
@@ -155,13 +137,31 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "status_id": "484074",
+          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24531943",
+          "shelf": "shelf d1",
+          "blocker": "goods here"
+        },
+        {
+          "visual_id": "76445",
+          "invoice_id": "24537279",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 19,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537279",
           "shelf": null,
-          "blocker": "waiting goods"
+          "blocker": "order goods"
         },
         {
           "visual_id": "76449",
@@ -214,24 +214,6 @@
           "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
-          "shelf": null,
-          "blocker": "order goods"
-        },
-        {
-          "visual_id": "76445",
-          "invoice_id": "24537279",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D2-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 19,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537279",
           "shelf": null,
           "blocker": "order goods"
         },
@@ -418,24 +400,6 @@
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24526260",
           "shelf": "shelf 95",
-          "blocker": "sewing"
-        },
-        {
-          "visual_id": "76432",
-          "invoice_id": "24532145",
-          "nickname": "REPRINT/EMB - Purple Bee Farm Dad Hats - 17PC",
-          "company": "Purple Bee Farm",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 17,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24532145",
-          "shelf": "shelf 85",
           "blocker": "sewing"
         }
       ]
