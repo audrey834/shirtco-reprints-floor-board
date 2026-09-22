@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 12:48:40 CDT",
+  "generated_at_ct": "2026-09-22 13:09:47 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4533 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4538 live_statuses=107 remakes_era=22 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
     "dtf": 9,
-    "emb": 7,
-    "total": 21
+    "emb": 8,
+    "total": 22
   },
   "columns": {
     "sp": {
@@ -78,13 +78,13 @@
           "rush": true,
           "firm": false,
           "qty": 8,
-          "status_id": "130396",
-          "status_name": "SP - SCREENS BURNED - RUSH",
-          "short_status": "SP - SCREENS BURNED - RUSH",
+          "status_id": "266478",
+          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24553659",
-          "shelf": null,
-          "blocker": "screens burned"
+          "shelf": "shelf 110",
+          "blocker": "goods here"
         },
         {
           "visual_id": "76591",
@@ -349,6 +349,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76595",
+          "invoice_id": "24571306",
+          "nickname": "RESTITCH//EMB - PO091426PCC - Precision Air - 1PC",
+          "company": "Gibson Printing",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272349",
+          "status_name": "EMB - DST FILE UPLOADED - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - RUSH",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24571306",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
           "visual_id": "73626",
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
@@ -394,13 +412,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "131512",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION ",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24538085",
           "shelf": "shelf e5",
-          "blocker": "sewing"
+          "blocker": "print complete / needs stor\u2026"
         }
       ]
     }
