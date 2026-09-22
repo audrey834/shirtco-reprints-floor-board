@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 17:42:42 CDT",
+  "generated_at_ct": "2026-09-22 17:57:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4524 live_statuses=107 remakes_era=19 unknown_dept=0"
+    "fetched=4523 live_statuses=107 remakes_era=18 unknown_dept=0"
   ],
   "counts": {
     "sp": 6,
-    "dtf": 5,
+    "dtf": 4,
     "emb": 8,
-    "total": 19
+    "total": 18
   },
   "columns": {
     "sp": {
@@ -128,24 +128,6 @@
       "title": "DTF",
       "cards": [
         {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76482",
           "invoice_id": "24546659",
           "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
@@ -164,22 +146,22 @@
           "blocker": "waiting goods"
         },
         {
-          "visual_id": "76450",
-          "invoice_id": "24538406",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF -LC/ LS/RS/FB  - UNION - 67189 -  (6 of 11)",
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
           "company": "Wright City Fire Department",
           "production_due": "2026-09-22",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
-          "qty": 3,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538406",
-          "shelf": "shelf 12",
-          "blocker": "print complete / needs stor\u2026"
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76468",
