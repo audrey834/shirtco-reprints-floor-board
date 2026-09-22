@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 13:09:47 CDT",
+  "generated_at_ct": "2026-09-22 13:33:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4538 live_statuses=107 remakes_era=22 unknown_dept=0"
+    "fetched=4537 live_statuses=107 remakes_era=20 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 9,
-    "emb": 8,
-    "total": 22
+    "dtf": 8,
+    "emb": 7,
+    "total": 20
   },
   "columns": {
     "sp": {
@@ -109,24 +109,6 @@
     "dtf": {
       "title": "DTF",
       "cards": [
-        {
-          "visual_id": "76178",
-          "invoice_id": "24472983",
-          "nickname": "DTF - Local 1 Pipe Covers FC Soccer Uniforms - 26 PCS",
-          "company": "Heat and Frost Insulators Local 1",
-          "production_due": "2026-09-16",
-          "customer_due": "2026-09-17",
-          "rush": true,
-          "firm": false,
-          "qty": 26,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24472983",
-          "shelf": "shelf 116",
-          "blocker": "printing"
-        },
         {
           "visual_id": "76430",
           "invoice_id": "24531943",
@@ -371,7 +353,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
@@ -401,24 +383,6 @@
           "url": "https://www.printavo.com/invoices/24526260",
           "shelf": "shelf 95",
           "blocker": "sewing"
-        },
-        {
-          "visual_id": "76448",
-          "invoice_id": "24538085",
-          "nickname": "RESTITCH - 610846 Wright City Fire Department 2026  EMB - HATS - WRIGHT CITY - 43630 -  (9 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "131512",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION ",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24538085",
-          "shelf": "shelf e5",
-          "blocker": "print complete / needs stor\u2026"
         }
       ]
     }
