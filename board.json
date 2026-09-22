@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-22 08:53:30 CDT",
+  "generated_at_ct": "2026-09-22 09:31:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4508 live_statuses=107 remakes_era=20 unknown_dept=0"
+    "fetched=4521 live_statuses=107 remakes_era=20 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
@@ -128,6 +128,24 @@
           "blocker": "staged"
         },
         {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": null,
+          "blocker": "waiting goods"
+        },
+        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -200,24 +218,6 @@
           "blocker": "order goods"
         },
         {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76468",
           "invoice_id": "24544426",
           "nickname": "REPRINT-DTF - FHHS Senior Band Shirts -1 pc",
@@ -281,7 +281,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -353,7 +353,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-29",
+          "production_due": "2026-07-28",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
