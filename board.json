@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-22 11:22:52 CDT",
+  "generated_at_ct": "2026-09-22 11:55:16 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4522 live_statuses=107 remakes_era=20 unknown_dept=0"
+    "fetched=4524 live_statuses=107 remakes_era=20 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
@@ -173,13 +173,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76445",
@@ -286,13 +286,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "272353",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
+          "status_id": "272351",
+          "status_name": "EMB - STAGED - RUSH",
+          "short_status": "EMB - STAGED - RUSH",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24538085",
           "shelf": "shelf e5",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76493",
@@ -340,13 +340,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "status_id": "272349",
+          "status_name": "EMB - DST FILE UPLOADED - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - RUSH",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24568406",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "73626",
