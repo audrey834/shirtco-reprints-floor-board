@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 07:47:37 CDT",
+  "generated_at_ct": "2026-09-22 08:12:15 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4511 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4511 live_statuses=107 remakes_era=20 unknown_dept=0"
   ],
   "counts": {
-    "sp": 5,
+    "sp": 4,
     "dtf": 10,
     "emb": 6,
-    "total": 21
+    "total": 20
   },
   "columns": {
     "sp": {
@@ -85,24 +85,6 @@
           "url": "https://www.printavo.com/invoices/24553659",
           "shelf": null,
           "blocker": "files sent"
-        },
-        {
-          "visual_id": "76113",
-          "invoice_id": "24456789",
-          "nickname": "REPRINT - SP/DTF - DTF - I AM LOCAL 2202 - 220pc",
-          "company": "",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 220,
-          "status_id": "282611",
-          "status_name": "DTF - SP - COMPLETE - NEEDS DTF",
-          "short_status": "DTF - SP - COMPLETE - NEEDS DTF",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24456789",
-          "shelf": "slot k",
-          "blocker": "sp - complete - needs dtf"
         }
       ]
     },
@@ -119,13 +101,13 @@
           "rush": true,
           "firm": false,
           "qty": 26,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "status_id": "520209",
+          "status_name": "DTF - PRINTING RUSH",
+          "short_status": "DTF - PRINTING RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24472983",
           "shelf": "shelf 116",
-          "blocker": "files sent"
+          "blocker": "printing"
         },
         {
           "visual_id": "76430",
@@ -137,13 +119,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24531943",
           "shelf": "shelf d1",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76446",
@@ -155,13 +137,13 @@
           "rush": true,
           "firm": false,
           "qty": 25,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24537435",
           "shelf": null,
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76449",
@@ -245,13 +227,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24544426",
           "shelf": null,
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76504",
@@ -263,13 +245,13 @@
           "rush": true,
           "firm": false,
           "qty": 16,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24549140",
           "shelf": null,
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "72577",
