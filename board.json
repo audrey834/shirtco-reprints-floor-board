@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-22 07:18:42 CDT",
+  "generated_at_ct": "2026-09-22 07:47:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4509 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4511 live_statuses=107 remakes_era=21 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
@@ -146,6 +146,24 @@
           "blocker": "goods here"
         },
         {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "520209",
+          "status_name": "DTF - PRINTING RUSH",
+          "short_status": "DTF - PRINTING RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": null,
+          "blocker": "printing"
+        },
+        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -216,24 +234,6 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": null,
           "blocker": "order goods"
-        },
-        {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": null,
-          "blocker": "printing"
         },
         {
           "visual_id": "76468",
