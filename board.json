@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 15:31:12 CDT",
+  "generated_at_ct": "2026-09-22 15:53:59 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4529 live_statuses=107 remakes_era=17 unknown_dept=0"
+    "fetched=4531 live_statuses=107 remakes_era=18 unknown_dept=0"
   ],
   "counts": {
-    "sp": 5,
+    "sp": 6,
     "dtf": 6,
     "emb": 6,
-    "total": 17
+    "total": 18
   },
   "columns": {
     "sp": {
@@ -87,6 +87,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76609",
+          "invoice_id": "24576813",
+          "nickname": "REPRINT//SCRN -MID COUNTY FIRE- QTY 5 (5 OF 5)",
+          "company": "Mid County Fire Department",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 5,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24576813",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "76113",
           "invoice_id": "24456789",
           "nickname": "REPRINT - SP/DTF - DTF - I AM LOCAL 2202 - 220pc",
@@ -96,13 +114,13 @@
           "rush": false,
           "firm": false,
           "qty": 220,
-          "status_id": "522086",
-          "status_name": "DTF - STAGED",
-          "short_status": "DTF - STAGED",
+          "status_id": "522077",
+          "status_name": "DTF - COMPLETE - FINISHING",
+          "short_status": "DTF - COMPLETE - FINISHING",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24456789",
           "shelf": "slot k",
-          "blocker": "staged"
+          "blocker": "finishing"
         }
       ]
     },
@@ -227,7 +245,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
