@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-22 10:09:47 CDT",
+  "generated_at_ct": "2026-09-22 10:51:19 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4518 live_statuses=107 remakes_era=20 unknown_dept=0"
+    "fetched=4521 live_statuses=107 remakes_era=19 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
-    "dtf": 10,
+    "dtf": 9,
     "emb": 6,
-    "total": 20
+    "total": 19
   },
   "columns": {
     "sp": {
@@ -42,13 +42,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "status_id": "130396",
+          "status_name": "SP - SCREENS BURNED - RUSH",
+          "short_status": "SP - SCREENS BURNED - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24549631",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "screens burned"
         },
         {
           "visual_id": "76543",
@@ -78,13 +78,13 @@
           "rush": true,
           "firm": false,
           "qty": 8,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "status_id": "130396",
+          "status_name": "SP - SCREENS BURNED - RUSH",
+          "short_status": "SP - SCREENS BURNED - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24553659",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "screens burned"
         }
       ]
     },
@@ -126,6 +126,24 @@
           "url": "https://www.printavo.com/invoices/24531943",
           "shelf": "shelf d1",
           "blocker": "staged"
+        },
+        {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": null,
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76449",
@@ -200,24 +218,6 @@
           "blocker": "order goods"
         },
         {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76468",
           "invoice_id": "24544426",
           "nickname": "REPRINT-DTF - FHHS Senior Band Shirts -1 pc",
@@ -232,24 +232,6 @@
           "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24544426",
-          "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
-          "visual_id": "76504",
-          "invoice_id": "24549140",
-          "nickname": "REPRINT - 607104 FORT ZUMWALT NORTH GOLF 2026 DTF-FC-74770",
-          "company": "Fort Zumwalt North",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 16,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24549140",
           "shelf": null,
           "blocker": "waiting goods"
         },
@@ -304,13 +286,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "272349",
-          "status_name": "EMB - DST FILE UPLOADED - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - RUSH",
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24538085",
-          "shelf": null,
-          "blocker": "files sent"
+          "shelf": "shelf e5",
+          "blocker": "goods here"
         },
         {
           "visual_id": "76493",
