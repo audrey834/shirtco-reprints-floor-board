@@ -1,37 +1,19 @@
 {
-  "generated_at_ct": "2026-09-22 17:57:56 CDT",
+  "generated_at_ct": "2026-09-23 07:15:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4523 live_statuses=107 remakes_era=18 unknown_dept=0"
+    "fetched=4520 live_statuses=107 remakes_era=16 unknown_dept=0"
   ],
   "counts": {
-    "sp": 6,
+    "sp": 4,
     "dtf": 4,
     "emb": 8,
-    "total": 18
+    "total": 16
   },
   "columns": {
     "sp": {
       "title": "SP",
       "cards": [
-        {
-          "visual_id": "76350",
-          "invoice_id": "24515004",
-          "nickname": "REPRINT SP - FirstSpear Tarot Tubes tees - 151pc poPO48355",
-          "company": "FIRST SPEAR",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 151,
-          "status_id": "154373",
-          "status_name": "SP - STAGED - RUSH",
-          "short_status": "SP - STAGED - RUSH",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24515004",
-          "shelf": null,
-          "blocker": "staged"
-        },
         {
           "visual_id": "76508",
           "invoice_id": "24549631",
@@ -103,30 +85,30 @@
           "url": "https://www.printavo.com/invoices/24576813",
           "shelf": null,
           "blocker": "files sent"
-        },
-        {
-          "visual_id": "76113",
-          "invoice_id": "24456789",
-          "nickname": "REPRINT - SP/DTF - DTF - I AM LOCAL 2202 - 220pc",
-          "company": "",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 220,
-          "status_id": "522077",
-          "status_name": "DTF - COMPLETE - FINISHING",
-          "short_status": "DTF - COMPLETE - FINISHING",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24456789",
-          "shelf": "slot k",
-          "blocker": "finishing"
         }
       ]
     },
     "dtf": {
       "title": "DTF",
       "cards": [
+        {
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
+          "blocker": "waiting goods"
+        },
         {
           "visual_id": "76482",
           "invoice_id": "24546659",
@@ -143,24 +125,6 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
           "blocker": "waiting goods"
         },
         {
@@ -209,7 +173,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
