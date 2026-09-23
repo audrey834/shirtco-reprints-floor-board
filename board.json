@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-23 14:40:47 CDT",
+  "generated_at_ct": "2026-09-23 15:05:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4555 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4554 live_statuses=107 remakes_era=22 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 6,
-    "emb": 10,
-    "total": 21
+    "dtf": 8,
+    "emb": 9,
+    "total": 22
   },
   "columns": {
     "sp": {
@@ -51,24 +51,6 @@
           "blocker": "finishing"
         },
         {
-          "visual_id": "76543",
-          "invoice_id": "24558070",
-          "nickname": "REPRINT//SP - Voting Rights Lab SF500 Black Hoodies - 1pc",
-          "company": "Voting Rights Lab",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "266478",
-          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
-          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24558070",
-          "shelf": "shelf 127",
-          "blocker": "goods here"
-        },
-        {
           "visual_id": "76591",
           "invoice_id": "24569560",
           "nickname": "REPRINT//SCR SISTA STRUT 2026 - 24 PCS",
@@ -103,30 +85,30 @@
           "url": "https://www.printavo.com/invoices/24576813",
           "shelf": null,
           "blocker": "files sent"
+        },
+        {
+          "visual_id": "76664",
+          "invoice_id": "24593695",
+          "nickname": "REPRINT/SP - Independence Elem Fun Run 2026 - 2pc",
+          "company": "INDEPENDENCE ELEMENTARY",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 2,
+          "status_id": "130397",
+          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
+          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24593695",
+          "shelf": null,
+          "blocker": "order goods"
         }
       ]
     },
     "dtf": {
       "title": "DTF",
       "cards": [
-        {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
-          "blocker": "waiting goods"
-        },
         {
           "visual_id": "76482",
           "invoice_id": "24546659",
@@ -143,6 +125,24 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
+          "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
           "blocker": "waiting goods"
         },
         {
@@ -180,6 +180,42 @@
           "url": "https://www.printavo.com/invoices/24587127",
           "shelf": null,
           "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76663",
+          "invoice_id": "24593689",
+          "nickname": "REPRINT - 602866 WASHINGTON MIDDLE SPIRIT WEAR 2026-2027 DTF-FF-CIRCLE WHITE/RED LOGO-74710 -  (2 of 8)",
+          "company": "Washington Middle School",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "520209",
+          "status_name": "DTF - PRINTING RUSH",
+          "short_status": "DTF - PRINTING RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24593689",
+          "shelf": null,
+          "blocker": "printing"
+        },
+        {
+          "visual_id": "76667",
+          "invoice_id": "24593954",
+          "nickname": "REPRINT - 602866 WASHINGTON MIDDLE SPIRIT WEAR 2026-2027 DTF - FF WMS ARCHED SCRIPT - ROYAL/WHITE -  30102 -  (6 of 8)",
+          "company": "Washington Middle School",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24593954",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
@@ -358,31 +394,13 @@
           "rush": false,
           "firm": false,
           "qty": 5,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "522078",
+          "status_name": "EMB - COMPLETE - FINISHING",
+          "short_status": "EMB - COMPLETE - FINISHING",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24526260",
           "shelf": "shelf 95",
-          "blocker": "sewing"
-        },
-        {
-          "visual_id": "76472",
-          "invoice_id": "24545191",
-          "nickname": "RESTITCH//EMB bigjexpress hat - 2 pc ",
-          "company": "Big J Express",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 2,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24545191",
-          "shelf": "shelf 85",
-          "blocker": "sewing"
+          "blocker": "finishing"
         },
         {
           "visual_id": "76649",
