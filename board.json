@@ -1,19 +1,37 @@
 {
-  "generated_at_ct": "2026-09-23 08:06:31 CDT",
+  "generated_at_ct": "2026-09-23 08:50:32 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4523 live_statuses=107 remakes_era=16 unknown_dept=0"
+    "fetched=4555 live_statuses=107 remakes_era=17 unknown_dept=0"
   ],
   "counts": {
-    "sp": 4,
+    "sp": 5,
     "dtf": 4,
     "emb": 8,
-    "total": 16
+    "total": 17
   },
   "columns": {
     "sp": {
       "title": "SP",
       "cards": [
+        {
+          "visual_id": "75881",
+          "invoice_id": "24403182",
+          "nickname": "REPRINT: RUSH  SP - INT'L HOUSEKEEPING WEEK SHIRTS 2026 - QTY 57",
+          "company": "Hilton Ballpark St. Louis",
+          "production_due": "2026-09-14",
+          "customer_due": "2026-09-15",
+          "rush": true,
+          "firm": false,
+          "qty": 57,
+          "status_id": "188018",
+          "status_name": "INVOICE  - INVOICE RESENT FOR PAYMENT (EMAIL AND TEXT)",
+          "short_status": "INVOICE  - INVOICE RESENT FOR PAYMENT (EM\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24403182",
+          "shelf": "shelf 126",
+          "blocker": "invoice - invoice resent fo\u2026"
+        },
         {
           "visual_id": "76508",
           "invoice_id": "24549631",
@@ -142,7 +160,7 @@
           "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24544426",
-          "shelf": null,
+          "shelf": "shelf A",
           "blocker": "waiting goods"
         },
         {
@@ -281,7 +299,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
