@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-23 08:50:32 CDT",
+  "generated_at_ct": "2026-09-23 10:11:23 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4555 live_statuses=107 remakes_era=17 unknown_dept=0"
+    "fetched=4567 live_statuses=107 remakes_era=18 unknown_dept=0"
   ],
   "counts": {
-    "sp": 5,
+    "sp": 6,
     "dtf": 4,
     "emb": 8,
-    "total": 17
+    "total": 18
   },
   "columns": {
     "sp": {
@@ -51,6 +51,24 @@
           "blocker": "screens burned"
         },
         {
+          "visual_id": "76543",
+          "invoice_id": "24558070",
+          "nickname": "REPRINT//SP - Voting Rights Lab SF500 Black Hoodies - 1pc",
+          "company": "Voting Rights Lab",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "266478",
+          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24558070",
+          "shelf": "shelf 127",
+          "blocker": "goods here"
+        },
+        {
           "visual_id": "76526",
           "invoice_id": "24553659",
           "nickname": "REPRINT- SP - Middle School Athletics Tees - 8 PCS",
@@ -78,13 +96,13 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "status_id": "130396",
+          "status_name": "SP - SCREENS BURNED - RUSH",
+          "short_status": "SP - SCREENS BURNED - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24569560",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "screens burned"
         },
         {
           "visual_id": "76609",
@@ -110,24 +128,6 @@
       "title": "DTF",
       "cards": [
         {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76482",
           "invoice_id": "24546659",
           "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
@@ -143,6 +143,24 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
+          "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
           "blocker": "waiting goods"
         },
         {
@@ -205,24 +223,6 @@
           "blocker": "invoice - invoice resent fo\u2026"
         },
         {
-          "visual_id": "76493",
-          "invoice_id": "24548025",
-          "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
-          "company": "Central County Fire",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 0,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24548025",
-          "shelf": null,
-          "blocker": "order goods"
-        },
-        {
           "visual_id": "76472",
           "invoice_id": "24545191",
           "nickname": "RESTITCH//EMB bigjexpress hat - 2 pc ",
@@ -239,6 +239,24 @@
           "url": "https://www.printavo.com/invoices/24545191",
           "shelf": null,
           "blocker": "files sent"
+        },
+        {
+          "visual_id": "76493",
+          "invoice_id": "24548025",
+          "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
+          "company": "Central County Fire",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 0,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24548025",
+          "shelf": null,
+          "blocker": "order goods"
         },
         {
           "visual_id": "76595",
@@ -285,7 +303,7 @@
           "customer_due": "2026-09-24",
           "rush": true,
           "firm": false,
-          "qty": 8,
+          "qty": 11,
           "status_id": "272349",
           "status_name": "EMB - DST FILE UPLOADED - RUSH",
           "short_status": "EMB - DST FILE UPLOADED - RUSH",
