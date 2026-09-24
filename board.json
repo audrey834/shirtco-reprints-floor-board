@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-24 14:44:26 CDT",
+  "generated_at_ct": "2026-09-24 14:54:01 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4573 live_statuses=107 remakes_era=28 unknown_dept=1",
+    "fetched=4571 live_statuses=107 remakes_era=27 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 14,
+    "dtf": 13,
     "emb": 8,
-    "total": 27
+    "total": 26
   },
   "columns": {
     "sp": {
@@ -163,24 +163,6 @@
           "url": "https://www.printavo.com/invoices/24537435",
           "shelf": "slot M",
           "blocker": "print complete / needs stor\u2026"
-        },
-        {
-          "visual_id": "76468",
-          "invoice_id": "24544426",
-          "nickname": "REPRINT-DTF - FHHS Senior Band Shirts -1 pc",
-          "company": "FRANCIS HOWELL MARCHING BAND",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-23",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24544426",
-          "shelf": "shelf d3",
-          "blocker": "finishing"
         },
         {
           "visual_id": "76504",
@@ -390,7 +372,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
