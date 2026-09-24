@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-24 07:05:17 CDT",
+  "generated_at_ct": "2026-09-24 07:25:49 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4554 live_statuses=107 remakes_era=21 unknown_dept=0"
+    "fetched=4558 live_statuses=107 remakes_era=23 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
-    "dtf": 9,
+    "dtf": 11,
     "emb": 8,
-    "total": 21
+    "total": 23
   },
   "columns": {
     "sp": {
@@ -126,6 +126,24 @@
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
           "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "522081",
+          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
+          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": "slot M",
+          "blocker": "finishing"
         },
         {
           "visual_id": "76468",
@@ -252,6 +270,24 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": "slot J",
           "blocker": "staged"
+        },
+        {
+          "visual_id": "76504",
+          "invoice_id": "24549140",
+          "nickname": "REPRINT - 607104 FORT ZUMWALT NORTH GOLF 2026 DTF-FC-74770",
+          "company": "Fort Zumwalt North",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": false,
+          "firm": false,
+          "qty": 16,
+          "status_id": "522086",
+          "status_name": "DTF - STAGED",
+          "short_status": "DTF - STAGED",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24549140",
+          "shelf": "shelf 123",
+          "blocker": "staged"
         }
       ]
     },
@@ -263,7 +299,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
