@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-24 15:22:24 CDT",
+  "generated_at_ct": "2026-09-24 15:32:15 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4570 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4571 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 13,
+    "dtf": 14,
     "emb": 8,
-    "total": 26
+    "total": 27
   },
   "columns": {
     "sp": {
@@ -111,6 +111,24 @@
       "title": "DTF",
       "cards": [
         {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": "slot M",
+          "blocker": "print complete / needs stor\u2026"
+        },
+        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -145,24 +163,6 @@
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
           "blocker": "waiting goods"
-        },
-        {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": "slot M",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76504",
@@ -300,9 +300,9 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24611103",
           "shelf": null,
@@ -343,6 +343,24 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": "slot J",
           "blocker": "staged"
+        },
+        {
+          "visual_id": "76732",
+          "invoice_id": "24612337",
+          "nickname": "REPRINT - DTF - EAGLE SCRIPT - 30104 - QTY 1",
+          "company": "",
+          "production_due": "2026-10-01",
+          "customer_due": "2026-10-02",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "101295",
+          "status_name": "DTF - PRODUCTION FILES SENT",
+          "short_status": "DTF - PRODUCTION FILES SENT",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24612337",
+          "shelf": null,
+          "blocker": "files sent"
         }
       ]
     },
@@ -354,7 +372,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
