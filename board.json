@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-24 17:53:41 CDT",
+  "generated_at_ct": "2026-09-24 17:59:16 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4569 live_statuses=107 remakes_era=29 unknown_dept=1",
+    "fetched=4570 live_statuses=107 remakes_era=30 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
-    "sp": 5,
+    "sp": 6,
     "dtf": 15,
     "emb": 8,
-    "total": 28
+    "total": 29
   },
   "columns": {
     "sp": {
@@ -68,6 +68,24 @@
           "url": "https://www.printavo.com/invoices/24593695",
           "shelf": null,
           "blocker": "screens burned"
+        },
+        {
+          "visual_id": "76742",
+          "invoice_id": "24614864",
+          "nickname": "REPRINT//SP - movmx shirts  - 4 PCS",
+          "company": "",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 4,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24614864",
+          "shelf": null,
+          "blocker": "order goods"
         },
         {
           "visual_id": "76739",
@@ -129,6 +147,24 @@
           "blocker": "print complete / needs stor\u2026"
         },
         {
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
+          "blocker": "waiting goods"
+        },
+        {
           "visual_id": "76482",
           "invoice_id": "24546659",
           "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
@@ -144,24 +180,6 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
           "blocker": "waiting goods"
         },
         {
@@ -390,7 +408,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
