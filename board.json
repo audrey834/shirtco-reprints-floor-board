@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-24 15:16:22 CDT",
+  "generated_at_ct": "2026-09-24 15:22:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4571 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4570 live_statuses=107 remakes_era=27 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -43,13 +43,13 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "266478",
-          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
-          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "status_id": "154373",
+          "status_name": "SP - STAGED - RUSH",
+          "short_status": "SP - STAGED - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24569560",
           "shelf": "shelf 116",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76609",
@@ -300,13 +300,13 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "130397",
-          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
-          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "status_id": "130395",
+          "status_name": "SP - PRODUCTION FILES SENT RUSH",
+          "short_status": "SP - PRODUCTION FILES SENT RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24611103",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
@@ -354,7 +354,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
