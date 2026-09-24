@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-24 14:00:41 CDT",
+  "generated_at_ct": "2026-09-24 14:05:22 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4565 live_statuses=107 remakes_era=26 unknown_dept=0"
+    "fetched=4566 live_statuses=107 remakes_era=26 unknown_dept=0"
   ],
   "counts": {
     "sp": 5,
@@ -371,7 +371,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
@@ -461,7 +461,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
