@@ -1,14 +1,14 @@
 {
-  "generated_at_ct": "2026-09-24 09:00:46 CDT",
+  "generated_at_ct": "2026-09-24 09:31:03 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4555 live_statuses=107 remakes_era=24 unknown_dept=0"
+    "fetched=4565 live_statuses=107 remakes_era=25 unknown_dept=0"
   ],
   "counts": {
-    "sp": 4,
+    "sp": 5,
     "dtf": 11,
     "emb": 9,
-    "total": 24
+    "total": 25
   },
   "columns": {
     "sp": {
@@ -85,12 +85,48 @@
           "url": "https://www.printavo.com/invoices/24593695",
           "shelf": null,
           "blocker": "screens burned"
+        },
+        {
+          "visual_id": "76694",
+          "invoice_id": "24601828",
+          "nickname": "REPRINT 586067 USD 207 Store 2026 SCRN - FF - D2 - 67629 - ",
+          "company": "Fort Leavenworth USD 207",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-01",
+          "rush": true,
+          "firm": false,
+          "qty": 2,
+          "status_id": "130397",
+          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
+          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24601828",
+          "shelf": null,
+          "blocker": "order goods"
         }
       ]
     },
     "dtf": {
       "title": "DTF",
       "cards": [
+        {
+          "visual_id": "76449",
+          "invoice_id": "24538342",
+          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
+          "company": "Wright City Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24538342",
+          "shelf": "slot M",
+          "blocker": "waiting goods"
+        },
         {
           "visual_id": "76482",
           "invoice_id": "24546659",
@@ -128,24 +164,6 @@
           "blocker": "print complete / needs stor\u2026"
         },
         {
-          "visual_id": "76449",
-          "invoice_id": "24538342",
-          "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
-          "company": "Wright City Fire Department",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24538342",
-          "shelf": "slot M",
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76468",
           "invoice_id": "24544426",
           "nickname": "REPRINT-DTF - FHHS Senior Band Shirts -1 pc",
@@ -162,6 +180,24 @@
           "url": "https://www.printavo.com/invoices/24544426",
           "shelf": "shelf d3",
           "blocker": "staged"
+        },
+        {
+          "visual_id": "76504",
+          "invoice_id": "24549140",
+          "nickname": "REPRINT - 607104 FORT ZUMWALT NORTH GOLF 2026 DTF-FC-74770",
+          "company": "Fort Zumwalt North",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 16,
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24549140",
+          "shelf": "shelf 123",
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76652",
@@ -270,24 +306,6 @@
           "url": "https://www.printavo.com/invoices/24537279",
           "shelf": "slot J",
           "blocker": "staged"
-        },
-        {
-          "visual_id": "76504",
-          "invoice_id": "24549140",
-          "nickname": "REPRINT - 607104 FORT ZUMWALT NORTH GOLF 2026 DTF-FC-74770",
-          "company": "Fort Zumwalt North",
-          "production_due": "2026-09-22",
-          "customer_due": "2026-09-22",
-          "rush": false,
-          "firm": false,
-          "qty": 16,
-          "status_id": "522077",
-          "status_name": "DTF - COMPLETE - FINISHING",
-          "short_status": "DTF - COMPLETE - FINISHING",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24549140",
-          "shelf": "shelf 123",
-          "blocker": "finishing"
         }
       ]
     },
@@ -317,7 +335,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
@@ -412,20 +430,20 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "130397",
-          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
-          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "status_id": "272349",
+          "status_name": "EMB - DST FILE UPLOADED - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - RUSH",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24601090",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "73626",
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-29",
+          "production_due": "2026-07-28",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
