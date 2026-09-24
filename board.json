@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-24 08:06:28 CDT",
+  "generated_at_ct": "2026-09-24 08:30:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4558 live_statuses=107 remakes_era=23 unknown_dept=0"
+    "fetched=4556 live_statuses=107 remakes_era=23 unknown_dept=0"
   ],
   "counts": {
     "sp": 4,
@@ -137,13 +137,13 @@
           "rush": true,
           "firm": false,
           "qty": 25,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24537435",
           "shelf": "slot M",
-          "blocker": "finishing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76468",
