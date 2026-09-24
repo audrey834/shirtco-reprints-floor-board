@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-24 14:41:29 CDT",
+  "generated_at_ct": "2026-09-24 14:44:26 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4573 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4573 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 5,
-    "dtf": 13,
+    "dtf": 14,
     "emb": 8,
-    "total": 26
+    "total": 27
   },
   "columns": {
     "sp": {
@@ -111,24 +111,6 @@
       "title": "DTF",
       "cards": [
         {
-          "visual_id": "76446",
-          "invoice_id": "24537435",
-          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
-          "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-22",
-          "rush": true,
-          "firm": false,
-          "qty": 25,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24537435",
-          "shelf": "slot M",
-          "blocker": "print complete / needs stor\u2026"
-        },
-        {
           "visual_id": "76449",
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
@@ -163,6 +145,24 @@
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": null,
           "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76446",
+          "invoice_id": "24537435",
+          "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
+          "company": "ORCHARD FARM EARLY LEARNING CENTER",
+          "production_due": "2026-09-22",
+          "customer_due": "2026-09-22",
+          "rush": true,
+          "firm": false,
+          "qty": 25,
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24537435",
+          "shelf": "slot M",
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76468",
@@ -309,6 +309,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76726",
+          "invoice_id": "24611103",
+          "nickname": "REPRINT//DTF - MY-T-SHARP TOPS -24PC ",
+          "company": "",
+          "production_due": "2026-09-25",
+          "customer_due": "2026-09-25",
+          "rush": true,
+          "firm": false,
+          "qty": 24,
+          "status_id": "130397",
+          "status_name": "ORDER APPROVED - PRINT PACKING SLIP - ART REVIEW - RUSH",
+          "short_status": "ORDER APPROVED - PRINT PACKING SLIP - ART\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24611103",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "72577",
           "invoice_id": "23547767",
           "nickname": "REPRINT - DTF- PO5858-Building Point-250PC",
@@ -372,7 +390,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
