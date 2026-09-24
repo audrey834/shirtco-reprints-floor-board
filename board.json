@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-24 15:39:14 CDT",
+  "generated_at_ct": "2026-09-24 15:48:13 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4570 live_statuses=107 remakes_era=28 unknown_dept=1",
@@ -111,11 +111,29 @@
       "title": "DTF",
       "cards": [
         {
+          "visual_id": "76482",
+          "invoice_id": "24546659",
+          "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
+          "company": "Black Jack Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24546659",
+          "shelf": null,
+          "blocker": "waiting goods"
+        },
+        {
           "visual_id": "76446",
           "invoice_id": "24537435",
           "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
           "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-22",
           "rush": true,
           "firm": false,
@@ -133,7 +151,7 @@
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
@@ -144,24 +162,6 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24538342",
           "shelf": "slot M",
-          "blocker": "waiting goods"
-        },
-        {
-          "visual_id": "76482",
-          "invoice_id": "24546659",
-          "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
-          "company": "Black Jack Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24546659",
-          "shelf": null,
           "blocker": "waiting goods"
         },
         {
@@ -422,24 +422,6 @@
           "blocker": "files sent"
         },
         {
-          "visual_id": "76612",
-          "invoice_id": "24578069",
-          "nickname": "RESTITCH//EMB - HBCSD Polos - 1 PCS",
-          "company": "SUNSET SCREEN PRINTING",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "EMB - STAGED - RUSH",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24578069",
-          "shelf": "shelf e4",
-          "blocker": "staged"
-        },
-        {
           "visual_id": "76655",
           "invoice_id": "24591673",
           "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
@@ -492,6 +474,24 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
+        },
+        {
+          "visual_id": "76612",
+          "invoice_id": "24578069",
+          "nickname": "RESTITCH//EMB - HBCSD Polos - 1 PCS",
+          "company": "SUNSET SCREEN PRINTING",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24578069",
+          "shelf": "shelf e4",
+          "blocker": "sewing"
         },
         {
           "visual_id": "76649",
