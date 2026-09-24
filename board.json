@@ -1,8 +1,9 @@
 {
-  "generated_at_ct": "2026-09-24 14:35:56 CDT",
+  "generated_at_ct": "2026-09-24 14:41:29 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4573 live_statuses=107 remakes_era=26 unknown_dept=0"
+    "fetched=4573 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 5,
@@ -110,29 +111,11 @@
       "title": "DTF",
       "cards": [
         {
-          "visual_id": "76482",
-          "invoice_id": "24546659",
-          "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
-          "company": "Black Jack Fire Department",
-          "production_due": "2026-09-21",
-          "customer_due": "2026-09-21",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24546659",
-          "shelf": null,
-          "blocker": "waiting goods"
-        },
-        {
           "visual_id": "76446",
           "invoice_id": "24537435",
           "nickname": "REPRINT - 576181 Orchard Farm Store 2026 DTF-FF-D1-72657",
           "company": "ORCHARD FARM EARLY LEARNING CENTER",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-22",
           "rush": true,
           "firm": false,
@@ -150,7 +133,7 @@
           "invoice_id": "24538342",
           "nickname": "REPRINT - 610846 Wright City Fire Department 2026  DTF - LC/FB/LS -  BREAST CANCER -NON-UNION - 67194 -  (1 of 11)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
@@ -161,6 +144,24 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24538342",
           "shelf": "slot M",
+          "blocker": "waiting goods"
+        },
+        {
+          "visual_id": "76482",
+          "invoice_id": "24546659",
+          "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
+          "company": "Black Jack Fire Department",
+          "production_due": "2026-09-21",
+          "customer_due": "2026-09-21",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24546659",
+          "shelf": null,
           "blocker": "waiting goods"
         },
         {
