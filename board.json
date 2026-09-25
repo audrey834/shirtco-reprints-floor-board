@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-25 13:20:56 CDT",
+  "generated_at_ct": "2026-09-25 13:25:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4567 live_statuses=107 remakes_era=28 unknown_dept=1",
+    "fetched=4568 live_statuses=107 remakes_era=29 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
-    "sp": 6,
+    "sp": 7,
     "dtf": 13,
     "emb": 8,
-    "total": 27
+    "total": 28
   },
   "columns": {
     "sp": {
@@ -120,6 +120,24 @@
           "short_status": "SP - PRODUCTION FILES SENT RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24618895",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
+          "visual_id": "76797",
+          "invoice_id": "24624582",
+          "nickname": "REPRINT-SP - Wentzville Body Shop Tees - 1 PC",
+          "company": "GM WENTZVILLE",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "129697",
+          "status_name": "SP - PRODUCTION FILES SENT",
+          "short_status": "SP - PRODUCTION FILES SENT",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24624582",
           "shelf": null,
           "blocker": "files sent"
         }
