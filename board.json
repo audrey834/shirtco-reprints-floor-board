@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-25 11:34:21 CDT",
+  "generated_at_ct": "2026-09-25 11:43:34 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4564 live_statuses=107 remakes_era=31 unknown_dept=1",
+    "fetched=4562 live_statuses=107 remakes_era=31 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -354,13 +354,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
