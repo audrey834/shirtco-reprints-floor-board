@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-25 08:10:53 CDT",
+  "generated_at_ct": "2026-09-25 08:21:54 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4568 live_statuses=107 remakes_era=29 unknown_dept=1",
+    "fetched=4564 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 6,
-    "dtf": 14,
+    "dtf": 13,
     "emb": 8,
-    "total": 28
+    "total": 27
   },
   "columns": {
     "sp": {
@@ -237,24 +237,6 @@
           "blocker": "waiting goods"
         },
         {
-          "visual_id": "76714",
-          "invoice_id": "24609231",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-25",
-          "customer_due": "2026-09-25",
-          "rush": true,
-          "firm": false,
-          "qty": 19,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24609231",
-          "shelf": null,
-          "blocker": "printing"
-        },
-        {
           "visual_id": "76718",
           "invoice_id": "24609742",
           "nickname": "REPRINT - 543634 Pattonville Community Outreach store DTF-LC/FB- GREY TOPS - 71071 - FUNDRAISING - (1 of 2)",
@@ -264,13 +246,13 @@
           "rush": true,
           "firm": false,
           "qty": 7,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24609742",
           "shelf": null,
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76726",
@@ -282,13 +264,13 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24611103",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76741",
@@ -480,7 +462,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
