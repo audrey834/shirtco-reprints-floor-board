@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 16:48:43 CDT",
+  "generated_at_ct": "2026-09-25 16:52:55 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4555 live_statuses=107 remakes_era=26 unknown_dept=1",
@@ -174,13 +174,13 @@
           "rush": true,
           "firm": false,
           "qty": 19,
-          "status_id": "521374",
-          "status_name": "DTF - PRESSING - RUSH",
-          "short_status": "DTF - PRESSING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24609231",
           "shelf": "shelf 9",
-          "blocker": "pressing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76718",
@@ -241,7 +241,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-26",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
