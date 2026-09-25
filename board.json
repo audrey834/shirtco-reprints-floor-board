@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 14:15:29 CDT",
+  "generated_at_ct": "2026-09-25 14:22:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4571 live_statuses=107 remakes_era=29 unknown_dept=1",
@@ -156,13 +156,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24538342",
           "shelf": "shelf d4",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76482",
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24593689",
           "shelf": "shelf d4",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76667",
@@ -210,13 +210,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24593954",
           "shelf": "shelf d4",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76681",
@@ -228,13 +228,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24597081",
           "shelf": "shelf d4",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76714",
@@ -246,13 +246,13 @@
           "rush": true,
           "firm": false,
           "qty": 19,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24609231",
           "shelf": "shelf 9",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76718",
@@ -498,7 +498,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-29",
+          "production_due": "2026-07-28",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
