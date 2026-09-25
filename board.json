@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 13:52:47 CDT",
+  "generated_at_ct": "2026-09-25 13:55:30 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4570 live_statuses=107 remakes_era=29 unknown_dept=1",
@@ -390,7 +390,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -408,7 +408,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-21",
+          "production_due": "2026-09-22",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
