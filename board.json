@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-25 15:50:42 CDT",
+  "generated_at_ct": "2026-09-25 15:57:46 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4554 live_statuses=107 remakes_era=25 unknown_dept=1",
+    "fetched=4557 live_statuses=107 remakes_era=26 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 7,
     "dtf": 9,
-    "emb": 8,
-    "total": 24
+    "emb": 9,
+    "total": 25
   },
   "columns": {
     "sp": {
@@ -420,6 +420,24 @@
           "url": "https://www.printavo.com/invoices/24620030",
           "shelf": null,
           "blocker": "files sent"
+        },
+        {
+          "visual_id": "76806",
+          "invoice_id": "24628214",
+          "nickname": "RESTITCH - 566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
+          "company": "Central County Emergency 911",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24628214",
+          "shelf": null,
+          "blocker": "order goods"
         },
         {
           "visual_id": "73626",
