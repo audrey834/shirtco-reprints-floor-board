@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-25 15:03:23 CDT",
+  "generated_at_ct": "2026-09-25 15:07:57 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4568 live_statuses=107 remakes_era=29 unknown_dept=1",
+    "fetched=4567 live_statuses=107 remakes_era=29 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24593689",
           "shelf": "shelf d4",
-          "blocker": "finishing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76667",
@@ -210,13 +210,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24593954",
           "shelf": "shelf d4",
-          "blocker": "finishing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76681",
@@ -228,13 +228,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "522081",
-          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
-          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24597081",
           "shelf": "shelf d4",
-          "blocker": "finishing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76714",
@@ -246,13 +246,13 @@
           "rush": true,
           "firm": false,
           "qty": 19,
-          "status_id": "522087",
-          "status_name": "DTF - STAGED - RUSH",
-          "short_status": "DTF - STAGED - RUSH",
+          "status_id": "521374",
+          "status_name": "DTF - PRESSING - RUSH",
+          "short_status": "DTF - PRESSING - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24609231",
           "shelf": "shelf 9",
-          "blocker": "staged"
+          "blocker": "pressing"
         },
         {
           "visual_id": "76718",
