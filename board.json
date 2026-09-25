@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 09:48:14 CDT",
+  "generated_at_ct": "2026-09-25 09:51:55 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4555 live_statuses=107 remakes_era=29 unknown_dept=1",
@@ -115,13 +115,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "311150",
-          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
-          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "status_id": "130395",
+          "status_name": "SP - PRODUCTION FILES SENT RUSH",
+          "short_status": "SP - PRODUCTION FILES SENT RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24618895",
           "shelf": null,
-          "blocker": "order goods"
+          "blocker": "files sent"
         },
         {
           "visual_id": "76694",
@@ -408,7 +408,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
