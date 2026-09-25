@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-25 07:38:43 CDT",
+  "generated_at_ct": "2026-09-25 07:47:35 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4562 live_statuses=107 remakes_era=29 unknown_dept=1",
@@ -313,7 +313,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-26",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -408,7 +408,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
@@ -480,7 +480,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
@@ -503,13 +503,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "522078",
+          "status_name": "EMB - COMPLETE - FINISHING",
+          "short_status": "EMB - COMPLETE - FINISHING",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24578069",
           "shelf": "shelf e4",
-          "blocker": "sewing"
+          "blocker": "finishing"
         },
         {
           "visual_id": "76649",
