@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 10:33:39 CDT",
+  "generated_at_ct": "2026-09-28 10:50:29 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4575 live_statuses=107 remakes_era=28 unknown_dept=1",
+    "fetched=4580 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 24,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "status_id": "484074",
+          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24611103",
-          "shelf": "slot 15",
-          "blocker": "waiting goods"
+          "shelf": "shelf 9",
+          "blocker": "goods here"
         },
         {
           "visual_id": "76741",
