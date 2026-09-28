@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 09:32:45 CDT",
+  "generated_at_ct": "2026-09-28 09:46:58 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4570 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4571 live_statuses=107 remakes_era=27 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -61,13 +61,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "130396",
-          "status_name": "SP - SCREENS BURNED - RUSH",
-          "short_status": "SP - SCREENS BURNED - RUSH",
+          "status_id": "266478",
+          "status_name": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
+          "short_status": "SP - SCREENS BURNED -  GOODS HERE - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24593695",
-          "shelf": null,
-          "blocker": "screens burned"
+          "shelf": "shelf 120",
+          "blocker": "goods here"
         },
         {
           "visual_id": "76742",
