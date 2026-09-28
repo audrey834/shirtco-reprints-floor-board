@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 07:57:58 CDT",
+  "generated_at_ct": "2026-09-28 08:13:37 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4567 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4571 live_statuses=107 remakes_era=27 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -336,7 +336,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
