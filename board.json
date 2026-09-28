@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-28 10:00:50 CDT",
+  "generated_at_ct": "2026-09-28 10:17:36 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4571 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4573 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 7,
     "dtf": 10,
-    "emb": 9,
-    "total": 26
+    "emb": 10,
+    "total": 27
   },
   "columns": {
     "sp": {
@@ -336,7 +336,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -474,6 +474,24 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
+        },
+        {
+          "visual_id": "76588",
+          "invoice_id": "24568406",
+          "nickname": "RESTITCH - 611136 VIRTUAL WARFARE CENTER  EMB - LC/RS  - 71185 -  (1 of 1)",
+          "company": "",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-23",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24568406",
+          "shelf": null,
+          "blocker": "sewing"
         },
         {
           "visual_id": "76649",
