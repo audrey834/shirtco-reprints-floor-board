@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 14:12:37 CDT",
+  "generated_at_ct": "2026-09-28 14:22:56 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4583 live_statuses=107 remakes_era=25 unknown_dept=1",
+    "fetched=4582 live_statuses=107 remakes_era=25 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -156,13 +156,13 @@
           "rush": true,
           "firm": false,
           "qty": 7,
-          "status_id": "521374",
-          "status_name": "DTF - PRESSING - RUSH",
-          "short_status": "DTF - PRESSING - RUSH",
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24609742",
           "shelf": "shelf 9",
-          "blocker": "pressing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76741",
@@ -300,7 +300,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -404,6 +404,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76876",
+          "invoice_id": "24646028",
+          "nickname": "RESTITCH - 566196 WEST OVERLAND - NEW STORE 2026 EMB - HAT - WHITE 52 -  (9 of 18)",
+          "company": "West Overland Fire Department",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24646028",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "73626",
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
@@ -420,24 +438,6 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
-        },
-        {
-          "visual_id": "76595",
-          "invoice_id": "24571306",
-          "nickname": "RESTITCH//EMB - PO091426PCC - Precision Air - 1PC",
-          "company": "Gibson Printing",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": false,
-          "firm": false,
-          "qty": 1,
-          "status_id": "522078",
-          "status_name": "EMB - COMPLETE - FINISHING",
-          "short_status": "EMB - COMPLETE - FINISHING",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24571306",
-          "shelf": "shelf 91",
-          "blocker": "finishing"
         },
         {
           "visual_id": "76649",
