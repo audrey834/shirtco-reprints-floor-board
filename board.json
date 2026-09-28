@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 14:31:12 CDT",
+  "generated_at_ct": "2026-09-28 14:41:24 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4583 live_statuses=107 remakes_era=25 unknown_dept=1",
+    "fetched=4577 live_statuses=107 remakes_era=25 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -138,13 +138,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "484074",
-          "status_name": "DTF - TRANSFERS ARRIVED - GOODS HERE - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - GOODS HERE - RU\u2026",
+          "status_id": "522087",
+          "status_name": "DTF - STAGED - RUSH",
+          "short_status": "DTF - STAGED - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24546659",
           "shelf": "shelf d3",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76718",
@@ -201,24 +201,6 @@
           "blocker": "printing"
         },
         {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-27",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": null,
-          "blocker": "files sent"
-        },
-        {
           "visual_id": "76783",
           "invoice_id": "24621550",
           "nickname": "REPRINT - B364665 St. Charles City Fire Department Apparel 2026 - Batched 09/16/2026 DTF - LC/RC/FB/ RSLEEVE - UNION - WHITE - 26675 -  (1 of 2)",
@@ -235,6 +217,24 @@
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
           "blocker": "printing"
+        },
+        {
+          "visual_id": "76808",
+          "invoice_id": "24629559",
+          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
+          "company": "St. Victoria Parish Family",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24629559",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
@@ -300,7 +300,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-19",
+          "production_due": "2026-06-20",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
