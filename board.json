@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-28 13:54:21 CDT",
+  "generated_at_ct": "2026-09-28 14:02:11 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4587 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4585 live_statuses=107 remakes_era=27 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -197,7 +197,7 @@
           "short_status": "DTF - PRINTING RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24614526",
-          "shelf": null,
+          "shelf": "shelf d3",
           "blocker": "printing"
         },
         {
@@ -219,6 +219,24 @@
           "blocker": "printing"
         },
         {
+          "visual_id": "76808",
+          "invoice_id": "24629559",
+          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
+          "company": "St. Victoria Parish Family",
+          "production_due": "2026-09-27",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "141222",
+          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
+          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24629559",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
           "visual_id": "76783",
           "invoice_id": "24621550",
           "nickname": "REPRINT - B364665 St. Charles City Fire Department Apparel 2026 - Batched 09/16/2026 DTF - LC/RC/FB/ RSLEEVE - UNION - WHITE - 26675 -  (1 of 2)",
@@ -233,26 +251,8 @@
           "short_status": "DTF - PRINTING RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24621550",
-          "shelf": null,
+          "shelf": "shelf d3",
           "blocker": "printing"
-        },
-        {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": null,
-          "blocker": "files sent"
         },
         {
           "visual_id": "72577",
@@ -368,24 +368,6 @@
           "blocker": "print complete / needs stor\u2026"
         },
         {
-          "visual_id": "76595",
-          "invoice_id": "24571306",
-          "nickname": "RESTITCH//EMB - PO091426PCC - Precision Air - 1PC",
-          "company": "Gibson Printing",
-          "production_due": "2026-09-23",
-          "customer_due": "2026-09-24",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "EMB - STAGED - RUSH",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24571306",
-          "shelf": "shelf 91",
-          "blocker": "staged"
-        },
-        {
           "visual_id": "76655",
           "invoice_id": "24591673",
           "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
@@ -474,6 +456,24 @@
           "url": "https://www.printavo.com/invoices/23839366",
           "shelf": "SHELF 48",
           "blocker": "invoice - invoice resent fo\u2026"
+        },
+        {
+          "visual_id": "76595",
+          "invoice_id": "24571306",
+          "nickname": "RESTITCH//EMB - PO091426PCC - Precision Air - 1PC",
+          "company": "Gibson Printing",
+          "production_due": "2026-09-23",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24571306",
+          "shelf": "shelf 91",
+          "blocker": "sewing"
         },
         {
           "visual_id": "76649",
