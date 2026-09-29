@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-29 10:13:42 CDT",
+  "generated_at_ct": "2026-09-29 10:27:49 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4562 live_statuses=107 remakes_era=27 unknown_dept=1",
+    "fetched=4563 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 7,
-    "dtf": 9,
+    "dtf": 10,
     "emb": 10,
-    "total": 26
+    "total": 27
   },
   "columns": {
     "sp": {
@@ -291,6 +291,24 @@
           "blocker": "in sorting area - waiting o\u2026"
         },
         {
+          "visual_id": "76882",
+          "invoice_id": "24648320",
+          "nickname": "REPRINT-DTF - Total Softwash Long Sleeve Tees - 25 PCS",
+          "company": "Total Softwash Solutions",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-28",
+          "rush": false,
+          "firm": false,
+          "qty": 25,
+          "status_id": "101295",
+          "status_name": "DTF - PRODUCTION FILES SENT",
+          "short_status": "DTF - PRODUCTION FILES SENT",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24648320",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
           "visual_id": "76732",
           "invoice_id": "24612337",
           "nickname": "REPRINT - DTF - EAGLE SCRIPT - 30104 - QTY 1",
@@ -444,7 +462,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-29",
+          "production_due": "2026-07-28",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
