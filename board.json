@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 07:48:32 CDT",
+  "generated_at_ct": "2026-09-29 07:59:45 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4559 live_statuses=107 remakes_era=26 unknown_dept=1",
+    "fetched=4560 live_statuses=107 remakes_era=26 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -151,7 +151,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-26",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "141222",
-          "status_name": "DTF - PRODUCTION FILES SENT - RUSH",
-          "short_status": "DTF - PRODUCTION FILES SENT - RUSH",
+          "status_id": "520209",
+          "status_name": "DTF - PRINTING RUSH",
+          "short_status": "DTF - PRINTING RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24629559",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "printing"
         },
         {
           "visual_id": "76886",
