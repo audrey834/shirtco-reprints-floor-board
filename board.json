@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 13:39:20 CDT",
+  "generated_at_ct": "2026-09-29 13:48:19 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4560 live_statuses=107 remakes_era=30 unknown_dept=1",
+    "fetched=4559 live_statuses=107 remakes_era=30 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -97,13 +97,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "285783",
-          "status_name": "SP - PRINTING - RUSH",
-          "short_status": "SP - PRINTING - RUSH",
+          "status_id": "522080",
+          "status_name": "SP - COMPLETE - FINISHING - RUSH",
+          "short_status": "SP - COMPLETE - FINISHING - RUSH",
           "dept": "SP",
           "url": "https://www.printavo.com/invoices/24618895",
           "shelf": "shelf 120",
-          "blocker": "printing"
+          "blocker": "finishing"
         },
         {
           "visual_id": "76694",
@@ -354,7 +354,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -498,7 +498,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-28",
+          "production_due": "2026-07-29",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
