@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 09:03:27 CDT",
+  "generated_at_ct": "2026-09-29 09:16:38 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4560 live_statuses=107 remakes_era=26 unknown_dept=1",
+    "fetched=4561 live_statuses=107 remakes_era=26 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -165,6 +165,24 @@
           "blocker": "printing"
         },
         {
+          "visual_id": "76808",
+          "invoice_id": "24629559",
+          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
+          "company": "St. Victoria Parish Family",
+          "production_due": "2026-09-27",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "520209",
+          "status_name": "DTF - PRINTING RUSH",
+          "short_status": "DTF - PRINTING RUSH",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24629559",
+          "shelf": null,
+          "blocker": "printing"
+        },
+        {
           "visual_id": "76783",
           "invoice_id": "24621550",
           "nickname": "REPRINT - B364665 St. Charles City Fire Department Apparel 2026 - Batched 09/16/2026 DTF - LC/RC/FB/ RSLEEVE - UNION - WHITE - 26675 -  (1 of 2)",
@@ -180,24 +198,6 @@
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
-          "blocker": "printing"
-        },
-        {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": null,
           "blocker": "printing"
         },
         {
@@ -368,24 +368,6 @@
           "blocker": "files sent"
         },
         {
-          "visual_id": "76775",
-          "invoice_id": "24620030",
-          "nickname": "REPRINT-EMB - Skyline Pullovers - 3 PCS",
-          "company": "SKYLINE MISSOURI REALTY",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-29",
-          "rush": true,
-          "firm": false,
-          "qty": 3,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "EMB - STAGED - RUSH",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24620030",
-          "shelf": "shelf e3",
-          "blocker": "staged"
-        },
-        {
           "visual_id": "76806",
           "invoice_id": "24628214",
           "nickname": "RESTITCH - 566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
@@ -456,6 +438,24 @@
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4",
           "blocker": "goods here"
+        },
+        {
+          "visual_id": "76775",
+          "invoice_id": "24620030",
+          "nickname": "REPRINT-EMB - Skyline Pullovers - 3 PCS",
+          "company": "SKYLINE MISSOURI REALTY",
+          "production_due": "2026-09-28",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24620030",
+          "shelf": "shelf e3",
+          "blocker": "sewing"
         },
         {
           "visual_id": "76899",
