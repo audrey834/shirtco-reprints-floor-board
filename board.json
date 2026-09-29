@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 11:31:53 CDT",
+  "generated_at_ct": "2026-09-29 11:43:31 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4564 live_statuses=107 remakes_era=28 unknown_dept=1",
+    "fetched=4563 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -449,13 +449,13 @@
           "rush": true,
           "firm": false,
           "qty": 1,
-          "status_id": "272349",
-          "status_name": "EMB - DST FILE UPLOADED - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - RUSH",
+          "status_id": "272353",
+          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24646028",
-          "shelf": null,
-          "blocker": "files sent"
+          "shelf": "shelf e3",
+          "blocker": "goods here"
         },
         {
           "visual_id": "73626",
