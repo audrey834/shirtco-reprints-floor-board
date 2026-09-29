@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-29 14:11:20 CDT",
+  "generated_at_ct": "2026-09-29 14:15:12 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4559 live_statuses=107 remakes_era=31 unknown_dept=1",
@@ -201,6 +201,24 @@
           "blocker": "printing"
         },
         {
+          "visual_id": "76808",
+          "invoice_id": "24629559",
+          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
+          "company": "St. Victoria Parish Family",
+          "production_due": "2026-09-27",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24629559",
+          "shelf": "shelf d1",
+          "blocker": "print complete / needs stor\u2026"
+        },
+        {
           "visual_id": "76783",
           "invoice_id": "24621550",
           "nickname": "REPRINT - B364665 St. Charles City Fire Department Apparel 2026 - Batched 09/16/2026 DTF - LC/RC/FB/ RSLEEVE - UNION - WHITE - 26675 -  (1 of 2)",
@@ -217,24 +235,6 @@
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
           "blocker": "printing"
-        },
-        {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": "shelf d1",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76886",
@@ -404,24 +404,6 @@
           "blocker": "staged"
         },
         {
-          "visual_id": "76655",
-          "invoice_id": "24591673",
-          "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
-          "company": "Cottleville Fire",
-          "production_due": "2026-09-24",
-          "customer_due": "2026-09-24",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272351",
-          "status_name": "EMB - STAGED - RUSH",
-          "short_status": "EMB - STAGED - RUSH",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24591673",
-          "shelf": "shelf e1",
-          "blocker": "staged"
-        },
-        {
           "visual_id": "76682",
           "invoice_id": "24601090",
           "nickname": "RESTITCH// EMB - McCluer High School HATS -1PC ",
@@ -530,6 +512,24 @@
           "blocker": "invoice - invoice resent fo\u2026"
         },
         {
+          "visual_id": "76655",
+          "invoice_id": "24591673",
+          "nickname": "RESTITCH - EMB - Cottleville Fire 1/4zip and polo - 4pc",
+          "company": "Cottleville Fire",
+          "production_due": "2026-09-24",
+          "customer_due": "2026-09-24",
+          "rush": false,
+          "firm": false,
+          "qty": 1,
+          "status_id": "473774",
+          "status_name": "EMB - SEWING",
+          "short_status": "EMB - SEWING",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24591673",
+          "shelf": "shelf e1",
+          "blocker": "sewing"
+        },
+        {
           "visual_id": "76649",
           "invoice_id": "24586507",
           "nickname": "REPRINT - EMB - ST. CHARLES CITY FIRE DEPT - UNION - RC RANK BRUSH - 1 OF 2",
@@ -539,9 +539,9 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "462838",
-          "status_name": "EMB - DST FILE UPLOADED - ALL GOODS HERE - NEEDS BARCODE FILE",
-          "short_status": "EMB - DST FILE UPLOADED - ALL GOODS HERE\u2026",
+          "status_id": "227037",
+          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
+          "short_status": "EMB - GOODS HERE - DST UPLOADED - BARCODE\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4",
