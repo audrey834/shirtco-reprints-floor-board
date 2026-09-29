@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-29 14:38:31 CDT",
+  "generated_at_ct": "2026-09-29 14:45:28 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4559 live_statuses=107 remakes_era=30 unknown_dept=1",
+    "fetched=4565 live_statuses=107 remakes_era=32 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
-    "sp": 7,
-    "dtf": 11,
+    "sp": 8,
+    "dtf": 12,
     "emb": 11,
-    "total": 29
+    "total": 31
   },
   "columns": {
     "sp": {
@@ -124,6 +124,24 @@
           "blocker": "files sent"
         },
         {
+          "visual_id": "76954",
+          "invoice_id": "24665612",
+          "nickname": "REPRINT//SP - NEW MELLE FIRE BREAST CANCER - 2026 - 1",
+          "company": "New Melle Fire Rescue",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-10-01",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "SP",
+          "url": "https://www.printavo.com/invoices/24665612",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
           "visual_id": "76797",
           "invoice_id": "24624582",
           "nickname": "REPRINT-SP - Wentzville Body Shop Tees - 1 PC",
@@ -183,6 +201,24 @@
           "blocker": "printing"
         },
         {
+          "visual_id": "76808",
+          "invoice_id": "24629559",
+          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
+          "company": "St. Victoria Parish Family",
+          "production_due": "2026-09-27",
+          "customer_due": "2026-09-28",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "547705",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24629559",
+          "shelf": "shelf d1",
+          "blocker": "print complete / needs stor\u2026"
+        },
+        {
           "visual_id": "76783",
           "invoice_id": "24621550",
           "nickname": "REPRINT - B364665 St. Charles City Fire Department Apparel 2026 - Batched 09/16/2026 DTF - LC/RC/FB/ RSLEEVE - UNION - WHITE - 26675 -  (1 of 2)",
@@ -199,24 +235,6 @@
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
           "blocker": "printing"
-        },
-        {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": "shelf d1",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76886",
@@ -251,6 +269,24 @@
           "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24651646",
+          "shelf": null,
+          "blocker": "order goods"
+        },
+        {
+          "visual_id": "76955",
+          "invoice_id": "24665768",
+          "nickname": "REPRINT//DTF - SOCCER COACH POLOS- qty 4",
+          "company": "Kirk Day School",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-09-30",
+          "rush": true,
+          "firm": false,
+          "qty": 4,
+          "status_id": "311150",
+          "status_name": "INVOICE - RUSH ORDER APPROVED - ORDER GOODS",
+          "short_status": "INVOICE - RUSH ORDER APPROVED - ORDER GOO\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24665768",
           "shelf": null,
           "blocker": "order goods"
         },
