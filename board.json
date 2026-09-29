@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 13:56:38 CDT",
+  "generated_at_ct": "2026-09-29 14:01:42 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4561 live_statuses=107 remakes_era=31 unknown_dept=1",
+    "fetched=4562 live_statuses=107 remakes_era=31 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -313,8 +313,8 @@
           "invoice_id": "24664124",
           "nickname": "REPRINT  - DTF  - LEWIS & CLARK LAW ENFORCEMENT - 4187-2197-7128 - 3PCS.",
           "company": "",
-          "production_due": "2026-09-29",
-          "customer_due": "2026-09-29",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-09-30",
           "rush": false,
           "firm": false,
           "qty": 3,
