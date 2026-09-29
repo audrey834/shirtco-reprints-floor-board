@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-29 13:48:19 CDT",
+  "generated_at_ct": "2026-09-29 13:56:38 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4559 live_statuses=107 remakes_era=30 unknown_dept=1",
+    "fetched=4561 live_statuses=107 remakes_era=31 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
     "sp": 8,
-    "dtf": 10,
+    "dtf": 11,
     "emb": 11,
-    "total": 29
+    "total": 30
   },
   "columns": {
     "sp": {
@@ -187,7 +187,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-26",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -307,6 +307,24 @@
           "url": "https://www.printavo.com/invoices/24609231",
           "shelf": "shelf 9",
           "blocker": "in sorting area - waiting o\u2026"
+        },
+        {
+          "visual_id": "76949",
+          "invoice_id": "24664124",
+          "nickname": "REPRINT  - DTF  - LEWIS & CLARK LAW ENFORCEMENT - 4187-2197-7128 - 3PCS.",
+          "company": "",
+          "production_due": "2026-09-29",
+          "customer_due": "2026-09-29",
+          "rush": false,
+          "firm": false,
+          "qty": 3,
+          "status_id": "101295",
+          "status_name": "DTF - PRODUCTION FILES SENT",
+          "short_status": "DTF - PRODUCTION FILES SENT",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24664124",
+          "shelf": null,
+          "blocker": "files sent"
         },
         {
           "visual_id": "76732",
@@ -498,7 +516,7 @@
           "invoice_id": "23839366",
           "nickname": "RESTITCH - 550036 Elliott Data Systems Online Store 2026 EMB - LC/HAT - ELLIOTT DATA SYTEMS - TONAL - 44136 -  (3 of 8)",
           "company": "Elliott Data Systems, Inc.",
-          "production_due": "2026-07-29",
+          "production_due": "2026-07-28",
           "customer_due": "2026-07-28",
           "rush": false,
           "firm": false,
