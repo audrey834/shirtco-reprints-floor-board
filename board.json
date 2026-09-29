@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 11:18:20 CDT",
+  "generated_at_ct": "2026-09-29 11:31:53 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4563 live_statuses=107 remakes_era=28 unknown_dept=1",
+    "fetched=4564 live_statuses=107 remakes_era=28 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -241,7 +241,7 @@
           "invoice_id": "24651646",
           "nickname": "REPRINT-DTF - BLACK JACK FIRE STORE - UNION NAVY GARMENTS - 37190 REPLACEMENT BRYAN  NELSON",
           "company": "Black Jack Fire Department",
-          "production_due": "2026-09-30",
+          "production_due": "2026-09-29",
           "customer_due": "2026-09-29",
           "rush": true,
           "firm": false,
