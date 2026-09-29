@@ -1,15 +1,15 @@
 {
-  "generated_at_ct": "2026-09-29 17:38:31 CDT",
+  "generated_at_ct": "2026-09-29 17:42:40 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4564 live_statuses=107 remakes_era=32 unknown_dept=1",
+    "fetched=4562 live_statuses=107 remakes_era=30 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
-    "sp": 8,
-    "dtf": 12,
+    "sp": 7,
+    "dtf": 11,
     "emb": 11,
-    "total": 31
+    "total": 29
   },
   "columns": {
     "sp": {
@@ -106,24 +106,6 @@
           "blocker": "goods here"
         },
         {
-          "visual_id": "76939",
-          "invoice_id": "24662381",
-          "nickname": "REPRINT-SP -I AM EVIDENCE - 7 PCS",
-          "company": "",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-09-30",
-          "rush": true,
-          "firm": false,
-          "qty": 7,
-          "status_id": "130395",
-          "status_name": "SP - PRODUCTION FILES SENT RUSH",
-          "short_status": "SP - PRODUCTION FILES SENT RUSH",
-          "dept": "SP",
-          "url": "https://www.printavo.com/invoices/24662381",
-          "shelf": null,
-          "blocker": "files sent"
-        },
-        {
           "visual_id": "76954",
           "invoice_id": "24665612",
           "nickname": "REPRINT//SP - NEW MELLE FIRE BREAST CANCER - 2026 - 1",
@@ -187,7 +169,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-25",
+          "production_due": "2026-09-26",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -217,24 +199,6 @@
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
           "blocker": "printing"
-        },
-        {
-          "visual_id": "76808",
-          "invoice_id": "24629559",
-          "nickname": "REPRINT - B372152 St. Victoria Faith Formation - Batched 09/17/2026 DTF-LC/FB/LS-EDGE-75166 -  (2 of 3)",
-          "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-28",
-          "customer_due": "2026-09-28",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "547705",
-          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION RUSH",
-          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24629559",
-          "shelf": "shelf d1",
-          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76886",
@@ -390,7 +354,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -408,7 +372,7 @@
           "invoice_id": "24548025",
           "nickname": "REPRINT - EMB - CENTRAL COUNTY FIRE - 66712 - REPLACEMENT COLE HENDERSON",
           "company": "Central County Fire",
-          "production_due": "2026-09-22",
+          "production_due": "2026-09-21",
           "customer_due": "2026-09-21",
           "rush": true,
           "firm": false,
