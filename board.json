@@ -1,8 +1,8 @@
 {
-  "generated_at_ct": "2026-09-29 18:04:00 CDT",
+  "generated_at_ct": "2026-09-30 07:08:03 CDT",
   "timezone": "America/Chicago",
   "notes": [
-    "fetched=4558 live_statuses=107 remakes_era=30 unknown_dept=1",
+    "fetched=4561 live_statuses=107 remakes_era=30 unknown_dept=1",
     "76148: unknown dept, skipped"
   ],
   "counts": {
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76886",
@@ -210,13 +210,13 @@
           "rush": true,
           "firm": false,
           "qty": 12,
-          "status_id": "520209",
-          "status_name": "DTF - PRINTING RUSH",
-          "short_status": "DTF - PRINTING RUSH",
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24648642",
           "shelf": "shelf d1",
-          "blocker": "printing"
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76902",
@@ -300,13 +300,13 @@
           "rush": false,
           "firm": false,
           "qty": 3,
-          "status_id": "101295",
-          "status_name": "DTF - PRODUCTION FILES SENT",
-          "short_status": "DTF - PRODUCTION FILES SENT",
+          "status_id": "436424",
+          "status_name": "DTF - PRINTING",
+          "short_status": "DTF - PRINTING",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24664124",
           "shelf": null,
-          "blocker": "files sent"
+          "blocker": "printing"
         },
         {
           "visual_id": "76732",
@@ -354,7 +354,7 @@
           "invoice_id": "23359174",
           "nickname": "RUSH reprint - EMB - PO - 060126-P - 1PC ",
           "company": "Gibson Printing",
-          "production_due": "2026-06-20",
+          "production_due": "2026-06-19",
           "customer_due": "2026-06-19",
           "rush": true,
           "firm": false,
@@ -521,13 +521,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "227037",
-          "status_name": "EMB - GOODS HERE - DST UPLOADED - BARCODE FILE ADDED",
-          "short_status": "EMB - GOODS HERE - DST UPLOADED - BARCODE\u2026",
+          "status_id": "329207",
+          "status_name": "EMB - STAGED",
+          "short_status": "EMB - STAGED",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24586507",
           "shelf": "shelf e4",
-          "blocker": "goods here"
+          "blocker": "staged"
         },
         {
           "visual_id": "76899",
