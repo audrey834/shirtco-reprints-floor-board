@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 07:41:31 CDT",
+  "generated_at_ct": "2026-09-30 07:47:09 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4562 live_statuses=107 remakes_era=30 unknown_dept=1",
@@ -169,7 +169,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-26",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -408,7 +408,7 @@
           "invoice_id": "24628214",
           "nickname": "RESTITCH - 566144 Central County Emergency 911 EMB - LC/RC - WHITE - NON UNION - ADMIN - 60944 -  (8 of 13)",
           "company": "Central County Emergency 911",
-          "production_due": "2026-09-29",
+          "production_due": "2026-09-28",
           "customer_due": "2026-09-28",
           "rush": true,
           "firm": false,
@@ -440,6 +440,24 @@
           "blocker": "staged"
         },
         {
+          "visual_id": "76925",
+          "invoice_id": "24660193",
+          "nickname": "RESTITCH - 565046 CENTRAL COUNTY FIRE STORE 2026 EMB - CC HATS - 55094 -  (11 of 19)",
+          "company": "Central County Fire",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-09-30",
+          "rush": true,
+          "firm": false,
+          "qty": 1,
+          "status_id": "272349",
+          "status_name": "EMB - DST FILE UPLOADED - RUSH",
+          "short_status": "EMB - DST FILE UPLOADED - RUSH",
+          "dept": "EMB",
+          "url": "https://www.printavo.com/invoices/24660193",
+          "shelf": null,
+          "blocker": "files sent"
+        },
+        {
           "visual_id": "76941",
           "invoice_id": "24662535",
           "nickname": "RESTITCH//EMB - JACKETS - QTY 1",
@@ -456,24 +474,6 @@
           "url": "https://www.printavo.com/invoices/24662535",
           "shelf": null,
           "blocker": "order goods"
-        },
-        {
-          "visual_id": "76925",
-          "invoice_id": "24660193",
-          "nickname": "RESTITCH - 565046 CENTRAL COUNTY FIRE STORE 2026 EMB - CC HATS - 55094 -  (11 of 19)",
-          "company": "Central County Fire",
-          "production_due": "2026-10-01",
-          "customer_due": "2026-09-30",
-          "rush": true,
-          "firm": false,
-          "qty": 1,
-          "status_id": "272349",
-          "status_name": "EMB - DST FILE UPLOADED - RUSH",
-          "short_status": "EMB - DST FILE UPLOADED - RUSH",
-          "dept": "EMB",
-          "url": "https://www.printavo.com/invoices/24660193",
-          "shelf": null,
-          "blocker": "files sent"
         },
         {
           "visual_id": "73626",
@@ -503,13 +503,13 @@
           "rush": false,
           "firm": false,
           "qty": 1,
-          "status_id": "473774",
-          "status_name": "EMB - SEWING",
-          "short_status": "EMB - SEWING",
+          "status_id": "131512",
+          "status_name": "OS - PRINT COMPLETE / NEEDS STORE SEPARATION ",
+          "short_status": "OS - PRINT COMPLETE / NEEDS STORE SEPARAT\u2026",
           "dept": "EMB",
           "url": "https://www.printavo.com/invoices/24591673",
           "shelf": "shelf e1",
-          "blocker": "sewing"
+          "blocker": "print complete / needs stor\u2026"
         },
         {
           "visual_id": "76649",
@@ -534,7 +534,7 @@
           "invoice_id": "24650815",
           "nickname": "REPRINT - Wright City Fire Department 2026  EMB -  BOONIE ART - 51868 -  (1 of 2)",
           "company": "Wright City Fire Department",
-          "production_due": "2026-10-03",
+          "production_due": "2026-10-02",
           "customer_due": "2026-10-05",
           "rush": false,
           "firm": false,
