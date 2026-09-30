@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 08:26:57 CDT",
+  "generated_at_ct": "2026-09-30 08:32:31 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4593 live_statuses=107 remakes_era=30 unknown_dept=1",
@@ -192,13 +192,13 @@
           "rush": true,
           "firm": false,
           "qty": 2,
-          "status_id": "484073",
-          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
-          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "status_id": "521374",
+          "status_name": "DTF - PRESSING - RUSH",
+          "short_status": "DTF - PRESSING - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24621550",
           "shelf": "shelf d3",
-          "blocker": "waiting goods"
+          "blocker": "pressing"
         },
         {
           "visual_id": "76886",
