@@ -1,5 +1,5 @@
 {
-  "generated_at_ct": "2026-09-30 08:46:18 CDT",
+  "generated_at_ct": "2026-09-30 08:53:12 CDT",
   "timezone": "America/Chicago",
   "notes": [
     "fetched=4589 live_statuses=107 remakes_era=29 unknown_dept=0"
@@ -168,7 +168,7 @@
           "invoice_id": "24615289",
           "nickname": "REPRINT - B370988 St. Victoria Faith Formation - Batched 09/16/2026 DTF-LC/FB/LS-WITH EVERY BREATH-75166 - (1 of 1)",
           "company": "St. Victoria Parish Family",
-          "production_due": "2026-09-26",
+          "production_due": "2026-09-25",
           "customer_due": "2026-09-25",
           "rush": true,
           "firm": false,
@@ -209,13 +209,13 @@
           "rush": true,
           "firm": false,
           "qty": 12,
-          "status_id": "521374",
-          "status_name": "DTF - PRESSING - RUSH",
-          "short_status": "DTF - PRESSING - RUSH",
+          "status_id": "522081",
+          "status_name": "DTF - COMPLETE - FINISHING - RUSH",
+          "short_status": "DTF - COMPLETE - FINISHING - RUSH",
           "dept": "DTF",
           "url": "https://www.printavo.com/invoices/24648642",
           "shelf": "shelf d1",
-          "blocker": "pressing"
+          "blocker": "finishing"
         },
         {
           "visual_id": "76902",
@@ -234,6 +234,24 @@
           "url": "https://www.printavo.com/invoices/24651646",
           "shelf": null,
           "blocker": "order goods"
+        },
+        {
+          "visual_id": "76949",
+          "invoice_id": "24664124",
+          "nickname": "REPRINT  - DTF  - LEWIS & CLARK LAW ENFORCEMENT - 4187-2197-7128 - 3PCS.",
+          "company": "",
+          "production_due": "2026-09-30",
+          "customer_due": "2026-09-30",
+          "rush": true,
+          "firm": false,
+          "qty": 3,
+          "status_id": "484073",
+          "status_name": "DTF - TRANSFERS ARRIVED - WAITING ON GOODS - RUSH",
+          "short_status": "DTF - TRANSFERS ARRIVED - WAITING ON GOOD\u2026",
+          "dept": "DTF",
+          "url": "https://www.printavo.com/invoices/24664124",
+          "shelf": null,
+          "blocker": "waiting goods"
         },
         {
           "visual_id": "76955",
@@ -288,24 +306,6 @@
           "url": "https://www.printavo.com/invoices/24609231",
           "shelf": "shelf 9",
           "blocker": "in sorting area - waiting o\u2026"
-        },
-        {
-          "visual_id": "76949",
-          "invoice_id": "24664124",
-          "nickname": "REPRINT  - DTF  - LEWIS & CLARK LAW ENFORCEMENT - 4187-2197-7128 - 3PCS.",
-          "company": "",
-          "production_due": "2026-09-30",
-          "customer_due": "2026-09-30",
-          "rush": false,
-          "firm": false,
-          "qty": 3,
-          "status_id": "436424",
-          "status_name": "DTF - PRINTING",
-          "short_status": "DTF - PRINTING",
-          "dept": "DTF",
-          "url": "https://www.printavo.com/invoices/24664124",
-          "shelf": null,
-          "blocker": "printing"
         },
         {
           "visual_id": "76732",
